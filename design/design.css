@@ -1,0 +1,1090 @@
+
+    .sc-placeholder{background:color-mix(in srgb,currentColor 8%,transparent);
+      border:1px solid color-mix(in srgb,currentColor 50%,transparent);
+      border-radius:2px;box-sizing:border-box;overflow:hidden}
+    @keyframes sc-shine{0%{background-position:100% 50%}100%{background-position:0% 50%}}
+    html.sc-dc-streaming .sc-placeholder,
+    html.sc-dc-streaming .sc-interp.sc-missing{position:relative;
+      background:color-mix(in srgb,currentColor 5%,transparent);
+      border-color:transparent}
+    html.sc-dc-streaming .sc-placeholder::before,
+    html.sc-dc-streaming .sc-interp.sc-missing::before{content:'';
+      position:absolute;inset:0;pointer-events:none;
+      background:linear-gradient(90deg,rgba(217,119,87,0) 25%,rgba(247,225,211,.95) 37%,rgba(217,119,87,0) 63%);
+      background-size:400% 100%;animation:sc-shine 1.4s ease infinite}
+    html.sc-dc-streaming .sc-placeholder:nth-child(n+9 of .sc-placeholder)::before,
+    html.sc-dc-streaming .sc-interp.sc-missing:nth-child(n+9 of .sc-interp.sc-missing)::before{animation:none;
+      background:color-mix(in srgb,currentColor 8%,transparent)}
+    .sc-placeholder-error{padding:4px 8px;font:11px/1.4 ui-monospace,monospace;
+      color:color-mix(in srgb,currentColor 70%,transparent);word-break:break-word}
+    .sc-interp.sc-missing{display:inline-block;width:2em;height:1em;overflow:hidden;
+      vertical-align:text-bottom;background:rgba(255,255,255,.3);border:1px solid rgba(0,0,0,.5);
+      border-radius:2px;box-sizing:border-box;color:transparent;
+      user-select:none}
+    .sc-interp.sc-unresolved{font-family:ui-monospace,monospace;font-size:.85em;
+      color:color-mix(in srgb,currentColor 50%,transparent);
+      background:color-mix(in srgb,currentColor 10%,transparent);border-radius:3px;
+      padding:0 3px}
+    .sc-host.sc-has-error{position:relative}
+    .sc-logic-error{position:absolute;top:8px;left:8px;z-index:2147483647;max-width:60ch;
+      padding:6px 10px;background:#b00020;color:#fff;font:12px/1.4 ui-monospace,monospace;
+      border-radius:4px;white-space:pre-wrap;pointer-events:none}
+    /* Mirrors PRINT_BASELINE_CSS in apps/web deck-stage-export.ts — keep both
+       in sync until dc-runtime regains a build step. */
+    @media print {
+      @page { margin: 0.5cm; }
+      figure, table { break-inside: avoid; }
+      #dc-root, #dc-root > .sc-host { height: auto; }
+      *, *::before, *::after {
+        print-color-adjust: exact; -webkit-print-color-adjust: exact;
+        backdrop-filter: none !important; -webkit-backdrop-filter: none !important;
+        animation-delay: -99s !important; animation-duration: .001s !important;
+        animation-iteration-count: 1 !important; animation-fill-mode: both !important;
+        animation-play-state: running !important; transition-duration: 0s !important;
+      }
+    }
+  
+x-dc{display:none!important}
+
+html,body{height:100%;margin:0}#dc-root,#dc-root>.sc-host{height:100%}
+/* ============================================================
+   BUZZ KIDZ / THE BUZZ FOUNDATION — Colors & Type
+   "Child Development through the Arts"
+   ------------------------------------------------------------
+   Brand palette sampled directly from the official logo.
+   Type: GOTHAM ROUNDED (official brand font, self-hosted from
+   /fonts). Rounded geometric sans — matches the logo wordmark.
+   ============================================================ */
+
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("DATAURI") format('opentype');
+  font-weight: 300; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("DATAURI") format('opentype');
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("DATAURI") format('opentype');
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("DATAURI") format('opentype');
+  font-weight: 500; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'Gotham Rounded';
+  src: url("DATAURI") format('opentype');
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+
+:root {
+  /* ============================================================
+     BRAND PALETTE — the ENTIRE palette. Four colours + white + black.
+     Nothing else. No tints, no shades, no derived neutrals.
+     ============================================================ */
+  --buzz-gold:   #FEBF05;  /* R254 G191 B5  — mustard / warmth, joy */
+  --buzz-teal:   #0598A8;  /* R5 G152 B168  — teal (the brand "blue") */
+  --buzz-blue:   #0598A8;  /* alias — same official colour */
+  --buzz-red:    #EF3D4F;  /* R239 G61 B79  — pinkish strong red */
+  --buzz-gray:   #838484;  /* R131 G132 B132 — gray */
+  --buzz-white:  #FFFFFF;
+  --buzz-black:  #000000;
+
+  /* ---------- SEMANTIC (all resolve to the 6 brand values) ---------- */
+  --color-bg:          #FFFFFF;
+  --color-bg-dark:     #000000;
+  --color-surface:     #FFFFFF;
+  --color-border:      rgba(131,132,132,.28);  /* brand gray, translucent hairline */
+  --color-border-strong: #838484;
+
+  --color-fg:          #000000;   /* body text is BLACK */
+  --color-fg-muted:    #838484;   /* captions, meta — brand gray */
+  --color-fg-onbrand:  #FFFFFF;    /* text on red/teal/gray fills */
+  --color-fg-ongold:   #000000;    /* black reads best on gold */
+
+  --color-primary:  var(--buzz-red);
+  --color-accent:   var(--buzz-gold);
+  --color-info:     var(--buzz-teal);
+  --color-neutral:  var(--buzz-gray);
+  --color-link:     var(--buzz-teal);
+
+  /* Interaction states introduce NO new colours — hover/press use
+     opacity only, so every pixel stays on-palette.
+     e.g. .btn:hover{opacity:.88}  .btn:active{opacity:.78} */
+  --state-hover-opacity: .88;  /* @kind other */
+  --state-press-opacity: .78;  /* @kind other */
+
+  /* The 3-in-1 arts trio, colour-coded with official colours only:
+     Drama = red, Dance = teal, Singing = gold. */
+
+  /* ---------- TYPE FAMILIES ---------- */
+  /* Gotham Rounded is the single brand family. Display uses heavier
+     weights (Bold/Medium); body uses Book. Gotham Rounded has no 600/800,
+     so semibold maps to 500 and extra-bold to 700. */
+  --font-display: 'Gotham Rounded', system-ui, sans-serif; /* logo-like, headings, buttons */
+  --font-body:    'Gotham Rounded', system-ui, -apple-system, sans-serif; /* paragraphs, UI */
+
+  /* ---------- TYPE SCALE (fluid-ish, rem) ---------- */
+  --fs-display: 4.5rem;   /* 72px — hero */
+  --fs-h1:      3rem;     /* 48px */
+  --fs-h2:      2.25rem;  /* 36px */
+  --fs-h3:      1.625rem; /* 26px */
+  --fs-h4:      1.25rem;  /* 20px */
+  --fs-body-lg: 1.25rem;  /* 20px */
+  --fs-body:    1.0625rem;/* 17px */
+  --fs-small:   0.9375rem;/* 15px */
+  --fs-caption: 0.8125rem;/* 13px */
+
+  --lh-tight:   1.05;  /* @kind font */
+  --lh-snug:    1.2;   /* @kind font */
+  --lh-normal:  1.55;  /* @kind font */
+
+  /* Gotham Rounded ships Light/Book/Medium/Bold — no 600 or 800.
+     Semibold + extra are clamped to the nearest real cut. */
+  --fw-light:   300;  /* @kind font */
+  --fw-regular: 400;  /* @kind font */
+  --fw-medium:  500;  /* @kind font */
+  --fw-semibold:500;  /* @kind font */
+  --fw-bold:    700;  /* @kind font */
+  --fw-extra:   700;  /* @kind font */
+
+  /* ---------- RADII ---------- */
+  --radius-sm:   8px;
+  --radius-md:   14px;
+  --radius-lg:   22px;
+  --radius-xl:   32px;
+  --radius-pill: 999px;   /* the brand loves fully-round pills & circles */
+
+  /* ---------- SHADOWS (soft, friendly, black-based) ---------- */
+  --shadow-sm:  0 1px 2px rgba(0,0,0,.06), 0 2px 6px rgba(0,0,0,.06);
+  --shadow-md:  0 4px 14px rgba(0,0,0,.10);
+  --shadow-lg:  0 12px 34px rgba(0,0,0,.14);
+  --shadow-brand: 0 10px 28px rgba(239,61,79,.28); /* red glow for primary CTAs */
+
+  /* ---------- SPACING (4px base) ---------- */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px; --sp-9: 96px;
+}
+
+/* ============================================================
+   SEMANTIC TYPOGRAPHY
+   ============================================================ */
+body {
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: var(--lh-normal);
+  color: var(--color-fg);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, .display {
+  font-family: var(--font-display);
+  font-weight: var(--fw-semibold);
+  line-height: var(--lh-tight);
+  color: var(--color-fg);
+  margin: 0 0 .4em;
+  letter-spacing: -0.01em;
+}
+.display { font-size: var(--fs-display); font-weight: var(--fw-bold); }
+h1 { font-size: var(--fs-h1); }
+h2 { font-size: var(--fs-h2); }
+h3 { font-size: var(--fs-h3); font-weight: var(--fw-medium); }
+h4 { font-size: var(--fs-h4); font-weight: var(--fw-semibold); line-height: var(--lh-snug); }
+
+p  { margin: 0 0 1em; max-width: 68ch; text-wrap: pretty; }
+.lead { font-size: var(--fs-body-lg); line-height: var(--lh-normal); }
+small, .caption { font-size: var(--fs-caption); color: var(--color-fg-muted); }
+
+a { color: var(--color-link); text-decoration: none; font-weight: var(--fw-semibold); }
+a:hover { text-decoration: underline; }
+
+.eyebrow {
+  font-family: var(--font-display);
+  font-weight: var(--fw-semibold);
+  font-size: var(--fs-caption);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--buzz-red);
+}
+
+/* ============================================================
+   BUZZ BASE DECK — component styles
+   Builds on colors_and_type.css (brand tokens + Gotham Rounded)
+   Signature devices reverse-engineered from the Buzz pitch deck:
+   sticker headlines, colour-pill cards, quote cards, dashed
+   connectors, chevrons, tag chips, sparkle bursts, corner mark.
+   ============================================================ */
+
+/* ---- stage / slide frame ---- */
+deck-stage:not(:defined){visibility:hidden;}
+.slide{position:absolute;inset:0;overflow:hidden;background:#fff;
+  font-family:var(--font-body);color:#000;}
+.pad{position:absolute;inset:0;padding:70px 90px;box-sizing:border-box;}
+
+/* ---- bleeding corner circles (decoration) ---- */
+.blob{position:absolute;border-radius:50%;z-index:0;}
+.blob.red{background:var(--buzz-red);}
+.blob.teal{background:var(--buzz-teal);}
+.blob.gold{background:var(--buzz-gold);}
+.blob.gray{background:var(--buzz-gray);}
+
+/* ---- corner B-in-ring mark ---- */
+.corner-mark{position:absolute;top:44px;right:58px;width:132px;height:auto;z-index:6;}
+
+/* ---- STICKER HEADLINE (white puffy outline + soft shadow) ---- */
+.sticker{
+  font-family:var(--font-display);font-weight:700;line-height:1.04;
+  -webkit-text-stroke:14px #fff;paint-order:stroke fill;
+  filter:drop-shadow(0 7px 5px rgba(0,0,0,.16));
+  letter-spacing:-.01em;margin:0;display:inline-block;
+}
+.sticker.red{color:var(--buzz-red);}
+.sticker.teal{color:var(--buzz-teal);}
+.sticker.gold{color:var(--buzz-gold);}
+.sticker.white{color:#fff;-webkit-text-stroke-width:0;}
+.sticker.sm{-webkit-text-stroke-width:9px;}
+
+/* page title — sits top-left on content slides */
+.page-title{position:relative;z-index:5;font-size:74px;}
+
+/* ---- COLOUR PILL CARD ---- */
+.card{position:relative;border-radius:30px;padding:26px 30px;color:#fff;
+  box-shadow:0 12px 24px rgba(0,0,0,.16);font-weight:600;z-index:2;
+  font-size:26px;line-height:1.25;box-sizing:border-box;}
+.card.red{background:var(--buzz-red);}
+.card.teal{background:var(--buzz-teal);}
+.card.gold{background:var(--buzz-gold);color:#000;}
+.card.gray{background:var(--buzz-gray);}
+.card .lead{font-family:var(--font-display);font-weight:700;display:block;}
+
+/* ---- QUOTE CARD (badge + source tab) ---- */
+.quote{position:relative;border-radius:28px;padding:26px 30px 26px 56px;
+  color:#fff;font-weight:700;font-size:25px;line-height:1.25;
+  box-shadow:0 12px 24px rgba(0,0,0,.16);z-index:2;box-sizing:border-box;}
+.quote.teal{background:var(--buzz-teal);}
+.quote.red{background:var(--buzz-red);}
+.quote .badge{position:absolute;left:-34px;top:50%;transform:translateY(-50%);
+  width:78px;height:78px;border-radius:50%;background:var(--buzz-gold);
+  display:flex;align-items:center;justify-content:center;
+  font-family:Georgia,serif;font-size:62px;color:#fff;line-height:1;
+  box-shadow:0 6px 14px rgba(0,0,0,.18);padding-top:26px;box-sizing:border-box;}
+.quote .src{position:absolute;left:40px;bottom:-17px;background:#fff;
+  color:var(--buzz-red);font-family:var(--font-display);font-weight:600;
+  font-size:15px;padding:5px 14px;border-radius:8px;
+  box-shadow:0 4px 10px rgba(0,0,0,.12);white-space:nowrap;}
+
+/* ---- DASHED QUESTION PILL ---- */
+.qpill{border:3px dashed var(--buzz-red);border-radius:999px;
+  padding:18px 30px;font-family:var(--font-display);font-weight:600;
+  font-size:24px;color:var(--buzz-teal);text-align:center;background:#fff;
+  display:inline-flex;align-items:center;z-index:2;line-height:1.15;}
+.qpill.teal-b{border-color:var(--buzz-teal);}
+
+/* ---- TAG CHIP ---- */
+.tag{display:inline-flex;align-items:center;font-family:var(--font-display);
+  font-weight:600;font-size:24px;color:#fff;border-radius:999px;
+  padding:8px 22px;box-shadow:0 4px 10px rgba(0,0,0,.12);}
+.tag.red{background:var(--buzz-red);}
+.tag.teal{background:var(--buzz-teal);}
+.tag.gold{background:var(--buzz-gold);color:#000;}
+.tag.gray{background:var(--buzz-gray);}
+
+/* ---- ROUNDED CHEVRON ARROW (brand style: chunky rounded ">") ---- */
+.chev{width:74px;height:96px;flex:none;background:currentColor;
+  -webkit-mask:center/contain no-repeat url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' sc-camel-view-box='0 0 40 60'><path d='M11 8 L31 30 L11 52' fill='none' stroke='black' stroke-width='13' stroke-linecap='round' stroke-linejoin='round'/></svg>");
+  mask:center/contain no-repeat url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' sc-camel-view-box='0 0 40 60'><path d='M11 8 L31 30 L11 52' fill='none' stroke='black' stroke-width='13' stroke-linecap='round' stroke-linejoin='round'/></svg>");}
+.chev.red{color:var(--buzz-red);}
+.chev.teal{color:var(--buzz-teal);}
+.chev.gold{color:var(--buzz-gold);}
+.chev.down{transform:rotate(90deg);}
+.chev.up{transform:rotate(-90deg);}
+
+/* ---- DASHED CONNECTOR LINES ---- */
+.dash-h{position:absolute;height:0;border-top:3px dashed var(--buzz-red);z-index:1;}
+.dash-v{position:absolute;width:0;border-left:3px dashed var(--buzz-red);z-index:1;}
+.dash-h.teal,.dash-v.teal{border-color:var(--buzz-teal);}
+.dash-h.gray,.dash-v.gray{border-color:var(--buzz-gray);}
+
+/* ---- dashed placeholder box ---- */
+.dbox{position:absolute;border:3px dashed var(--buzz-teal);border-radius:26px;z-index:1;}
+.dbox.red{border-color:var(--buzz-red);}
+
+/* ---- SPARKLE BURST (brand motif) ---- */
+.spark{position:relative;width:70px;height:70px;flex:none;}
+.spark i{position:absolute;left:50%;top:50%;width:9px;height:22px;
+  border-radius:6px;background:var(--buzz-red);transform-origin:50% 130%;}
+.spark.teal i{background:var(--buzz-teal);}
+.spark.gold i{background:var(--buzz-gold);}
+.spark i:nth-child(1){transform:translate(-50%,-130%) rotate(0deg);}
+.spark i:nth-child(2){transform:translate(-50%,-130%) rotate(45deg);}
+.spark i:nth-child(3){transform:translate(-50%,-130%) rotate(-45deg);}
+.spark i:nth-child(4){transform:translate(-50%,-130%) rotate(22deg);}
+.spark i:nth-child(5){transform:translate(-50%,-130%) rotate(-22deg);}
+
+/* ---- ICON BADGE (circle w/ white sticker outline) ---- */
+.ibadge{width:84px;height:84px;border-radius:50%;flex:none;display:flex;
+  align-items:center;justify-content:center;border:6px solid #fff;
+  box-shadow:0 6px 14px rgba(0,0,0,.16);z-index:3;}
+.ibadge.red{background:var(--buzz-red);} .ibadge.teal{background:var(--buzz-teal);}
+.ibadge.gold{background:var(--buzz-gold);} .ibadge.gray{background:var(--buzz-gray);}
+.ibadge i,.ibadge svg{color:#fff;width:42px;height:42px;stroke-width:2.4;}
+.ibadge.gold i{color:#000;}
+
+/* ---- STAR RATING ROW ---- */
+.stars{font-size:34px;letter-spacing:4px;line-height:1;}
+.stars.red{color:var(--buzz-red);} .stars.teal{color:var(--buzz-teal);}
+.stars.gold{color:var(--buzz-gold);}
+
+/* ---- photo slot placeholder ---- */
+.photoslot{display:flex;align-items:center;justify-content:center;text-align:center;
+  border:3px dashed var(--buzz-gray);border-radius:24px;color:var(--buzz-gray);
+  font-family:var(--font-display);font-weight:600;font-size:20px;background:var(--buzz-gray-50,#f6f7f7);}
+.photoslot.circ{border-radius:50%;}
+
+/* ---- long bar card (Current Reach) ---- */
+.barcard{position:absolute;border-radius:999px;display:flex;align-items:center;
+  padding:0 40px;color:#fff;font-family:var(--font-display);font-weight:700;
+  box-shadow:0 10px 20px rgba(0,0,0,.14);z-index:2;}
+.barcard.red{background:var(--buzz-red);} .barcard.teal{background:var(--buzz-teal);}
+.barcard.gold{background:var(--buzz-gold);color:#000;} .barcard.gray{background:var(--buzz-gray);}
+
+/* ---- two-sided assessment slide ---- */
+.side-head{font-family:var(--font-display);font-weight:700;line-height:1.05;}
+.domain{border-radius:22px;padding:16px 20px;color:#fff;box-shadow:0 8px 16px rgba(0,0,0,.14);}
+.domain h4{font-family:var(--font-display);font-weight:700;font-size:24px;margin:0 0 2px;color:#fff;}
+.domain .sub{font-family:var(--font-body);font-weight:600;font-size:15px;opacity:.92;margin-bottom:8px;display:block;}
+.domain ul{margin:0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:6px;}
+.domain li{background:rgba(255,255,255,.22);border-radius:999px;padding:4px 12px;
+  font-family:var(--font-body);font-weight:600;font-size:14px;}
+.domain.red{background:var(--buzz-red);} .domain.teal{background:var(--buzz-teal);}
+.domain.gold{background:var(--buzz-gold);color:#000;}
+.domain.gold h4{color:#000;} .domain.gold li{background:rgba(0,0,0,.12);}
+
+/* 1–5 scale strip */
+.scale5{display:flex;border-radius:14px;overflow:hidden;box-shadow:0 6px 14px rgba(0,0,0,.14);}
+.scale5 div{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:8px 4px;font-family:var(--font-display);font-weight:700;color:#fff;font-size:15px;text-align:center;}
+.scale5 div span{font-size:26px;}
+.scale5 .s1{background:#c9cdcf;color:#000;} .scale5 .s2{background:var(--buzz-gray);}
+.scale5 .s3{background:var(--buzz-teal);} .scale5 .s4{background:var(--buzz-red);}
+.scale5 .s5{background:var(--buzz-gold);color:#000;}
+
+/* formal DBE list */
+.dbe-item{display:flex;align-items:center;gap:14px;background:#fff;border:2px solid var(--buzz-gray);
+  border-radius:16px;padding:12px 18px;font-family:var(--font-body);font-weight:600;font-size:19px;color:#000;}
+.dbe-item .n{width:34px;height:34px;flex:none;border-radius:50%;background:#1f3b66;color:#fff;
+  display:flex;align-items:center;justify-content:center;font-family:var(--font-display);font-weight:700;}
+
+/* center divider + VS child */
+.divider{position:absolute;top:210px;bottom:70px;left:50%;width:0;border-left:4px dashed var(--buzz-gray);transform:translateX(-50%);z-index:4;}
+.vs{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;
+  width:120px;height:120px;border-radius:50%;background:#fff;border:7px solid var(--buzz-gold);
+  display:flex;align-items:center;justify-content:center;box-shadow:0 8px 18px rgba(0,0,0,.2);}
+.stat{font-family:var(--font-display);font-weight:700;color:var(--buzz-teal);
+  line-height:.95;}
+
+/* ---- circular photo crop with colour ring ---- */
+.photo-circ{border-radius:50%;overflow:hidden;border:7px solid #fff;
+  box-shadow:0 8px 18px rgba(0,0,0,.18);object-fit:cover;}
+.ring-red{outline:9px solid var(--buzz-red);outline-offset:-2px;}
+.ring-teal{outline:9px solid var(--buzz-teal);outline-offset:-2px;}
+.ring-gold{outline:9px solid var(--buzz-gold);outline-offset:-2px;}
+
+/* ---- footer strip ---- */
+.foot{position:absolute;left:0;right:0;bottom:0;height:14px;z-index:6;
+  background:linear-gradient(90deg,var(--buzz-red) 0 25%,var(--buzz-gold) 25% 50%,
+    var(--buzz-teal) 50% 75%,var(--buzz-gray) 75% 100%);}
+
+/* ---- brand switcher (screen only) ---- */
+#brandbar{position:fixed;left:12px;top:12px;z-index:9999;display:flex;gap:6px;
+  font-family:var(--font-display);}
+#brandbar button{font-family:inherit;font-weight:600;font-size:12px;cursor:pointer;
+  border:0;border-radius:999px;padding:6px 12px;background:#fff;color:#000;
+  box-shadow:0 2px 8px rgba(0,0,0,.18);opacity:.55;transition:opacity .15s;}
+#brandbar button:hover{opacity:.9;}
+#brandbar button[aria-pressed="true"]{opacity:1;background:var(--buzz-red);color:#fff;}
+@media print{#brandbar{display:none;}}
+
+/* entrance animation: rise+fade, gated on active + motion-ok */
+@media (prefers-reduced-motion:no-preference){
+  [data-deck-active] .anim{animation:riseIn .55s both;}
+  [data-deck-active] .anim2{animation:riseIn .55s .12s both;}
+  [data-deck-active] .anim3{animation:riseIn .55s .24s both;}
+}
+@keyframes riseIn{from{opacity:0;transform:translateY(26px);}to{opacity:1;transform:none;}}
+
+/* required styles */
+
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-tile-container,
+.leaflet-pane > svg,
+.leaflet-pane > canvas,
+.leaflet-zoom-box,
+.leaflet-image-layer,
+.leaflet-layer {
+	position: absolute;
+	left: 0;
+	top: 0;
+	}
+.leaflet-container {
+	overflow: hidden;
+	}
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+	  -webkit-user-drag: none;
+	}
+/* Prevents IE11 from highlighting tiles in blue */
+.leaflet-tile::selection {
+	background: transparent;
+}
+/* Safari renders non-retina tile on retina better with this, but Chrome is worse */
+.leaflet-safari .leaflet-tile {
+	image-rendering: -webkit-optimize-contrast;
+	}
+/* hack that prevents hw layers "stretching" when loading new tiles */
+.leaflet-safari .leaflet-tile-container {
+	width: 1600px;
+	height: 1600px;
+	-webkit-transform-origin: 0 0;
+	}
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	display: block;
+	}
+/* .leaflet-container svg: reset svg max-width decleration shipped in Joomla! (joomla.org) 3.x */
+/* .leaflet-container img: map is broken in FF if you have max-width: 100% on tiles */
+.leaflet-container .leaflet-overlay-pane svg {
+	max-width: none !important;
+	max-height: none !important;
+	}
+.leaflet-container .leaflet-marker-pane img,
+.leaflet-container .leaflet-shadow-pane img,
+.leaflet-container .leaflet-tile-pane img,
+.leaflet-container img.leaflet-image-layer,
+.leaflet-container .leaflet-tile {
+	max-width: none !important;
+	max-height: none !important;
+	width: auto;
+	padding: 0;
+	}
+
+.leaflet-container img.leaflet-tile {
+	/* See: https://bugs.chromium.org/p/chromium/issues/detail?id=600120 */
+	mix-blend-mode: plus-lighter;
+}
+
+.leaflet-container.leaflet-touch-zoom {
+	-ms-touch-action: pan-x pan-y;
+	touch-action: pan-x pan-y;
+	}
+.leaflet-container.leaflet-touch-drag {
+	-ms-touch-action: pinch-zoom;
+	/* Fallback for FF which doesn't support pinch-zoom */
+	touch-action: none;
+	touch-action: pinch-zoom;
+}
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom {
+	-ms-touch-action: none;
+	touch-action: none;
+}
+.leaflet-container {
+	-webkit-tap-highlight-color: transparent;
+}
+.leaflet-container a {
+	-webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
+}
+.leaflet-tile {
+	filter: inherit;
+	visibility: hidden;
+	}
+.leaflet-tile-loaded {
+	visibility: inherit;
+	}
+.leaflet-zoom-box {
+	width: 0;
+	height: 0;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	z-index: 800;
+	}
+/* workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=888319 */
+.leaflet-overlay-pane svg {
+	-moz-user-select: none;
+	}
+
+.leaflet-pane         { z-index: 400; }
+
+.leaflet-tile-pane    { z-index: 200; }
+.leaflet-overlay-pane { z-index: 400; }
+.leaflet-shadow-pane  { z-index: 500; }
+.leaflet-marker-pane  { z-index: 600; }
+.leaflet-tooltip-pane   { z-index: 650; }
+.leaflet-popup-pane   { z-index: 700; }
+
+.leaflet-map-pane canvas { z-index: 100; }
+.leaflet-map-pane svg    { z-index: 200; }
+
+.leaflet-vml-shape {
+	width: 1px;
+	height: 1px;
+	}
+.lvml {
+	behavior: url(#default#VML);
+	display: inline-block;
+	position: absolute;
+	}
+
+
+/* control positioning */
+
+.leaflet-control {
+	position: relative;
+	z-index: 800;
+	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: auto;
+	}
+.leaflet-top,
+.leaflet-bottom {
+	position: absolute;
+	z-index: 1000;
+	pointer-events: none;
+	}
+.leaflet-top {
+	top: 0;
+	}
+.leaflet-right {
+	right: 0;
+	}
+.leaflet-bottom {
+	bottom: 0;
+	}
+.leaflet-left {
+	left: 0;
+	}
+.leaflet-control {
+	float: left;
+	clear: both;
+	}
+.leaflet-right .leaflet-control {
+	float: right;
+	}
+.leaflet-top .leaflet-control {
+	margin-top: 10px;
+	}
+.leaflet-bottom .leaflet-control {
+	margin-bottom: 10px;
+	}
+.leaflet-left .leaflet-control {
+	margin-left: 10px;
+	}
+.leaflet-right .leaflet-control {
+	margin-right: 10px;
+	}
+
+
+/* zoom and fade animations */
+
+.leaflet-fade-anim .leaflet-popup {
+	opacity: 0;
+	-webkit-transition: opacity 0.2s linear;
+	   -moz-transition: opacity 0.2s linear;
+	        transition: opacity 0.2s linear;
+	}
+.leaflet-fade-anim .leaflet-map-pane .leaflet-popup {
+	opacity: 1;
+	}
+.leaflet-zoom-animated {
+	-webkit-transform-origin: 0 0;
+	    -ms-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	}
+svg.leaflet-zoom-animated {
+	will-change: transform;
+}
+
+.leaflet-zoom-anim .leaflet-zoom-animated {
+	-webkit-transition: -webkit-transform 0.25s cubic-bezier(0,0,0.25,1);
+	   -moz-transition:    -moz-transform 0.25s cubic-bezier(0,0,0.25,1);
+	        transition:         transform 0.25s cubic-bezier(0,0,0.25,1);
+	}
+.leaflet-zoom-anim .leaflet-tile,
+.leaflet-pan-anim .leaflet-tile {
+	-webkit-transition: none;
+	   -moz-transition: none;
+	        transition: none;
+	}
+
+.leaflet-zoom-anim .leaflet-zoom-hide {
+	visibility: hidden;
+	}
+
+
+/* cursors */
+
+.leaflet-interactive {
+	cursor: pointer;
+	}
+.leaflet-grab {
+	cursor: -webkit-grab;
+	cursor:    -moz-grab;
+	cursor:         grab;
+	}
+.leaflet-crosshair,
+.leaflet-crosshair .leaflet-interactive {
+	cursor: crosshair;
+	}
+.leaflet-popup-pane,
+.leaflet-control {
+	cursor: auto;
+	}
+.leaflet-dragging .leaflet-grab,
+.leaflet-dragging .leaflet-grab .leaflet-interactive,
+.leaflet-dragging .leaflet-marker-draggable {
+	cursor: move;
+	cursor: -webkit-grabbing;
+	cursor:    -moz-grabbing;
+	cursor:         grabbing;
+	}
+
+/* marker & overlays interactivity */
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-image-layer,
+.leaflet-pane > svg path,
+.leaflet-tile-container {
+	pointer-events: none;
+	}
+
+.leaflet-marker-icon.leaflet-interactive,
+.leaflet-image-layer.leaflet-interactive,
+.leaflet-pane > svg path.leaflet-interactive,
+svg.leaflet-image-layer.leaflet-interactive path {
+	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: auto;
+	}
+
+/* visual tweaks */
+
+.leaflet-container {
+	background: #ddd;
+	outline-offset: 1px;
+	}
+.leaflet-container a {
+	color: #0078A8;
+	}
+.leaflet-zoom-box {
+	border: 2px dotted #38f;
+	background: rgba(255,255,255,0.5);
+	}
+
+
+/* general typography */
+.leaflet-container {
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1.5;
+	}
+
+
+/* general toolbar styles */
+
+.leaflet-bar {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+	border-radius: 4px;
+	}
+.leaflet-bar a {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	}
+.leaflet-bar a,
+.leaflet-control-layers-toggle {
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	display: block;
+	}
+.leaflet-bar a:hover,
+.leaflet-bar a:focus {
+	background-color: #f4f4f4;
+	}
+.leaflet-bar a:first-child {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	}
+.leaflet-bar a:last-child {
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom: none;
+	}
+.leaflet-bar a.leaflet-disabled {
+	cursor: default;
+	background-color: #f4f4f4;
+	color: #bbb;
+	}
+
+.leaflet-touch .leaflet-bar a {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	}
+.leaflet-touch .leaflet-bar a:first-child {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	}
+.leaflet-touch .leaflet-bar a:last-child {
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	}
+
+/* zoom control */
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+	font: bold 18px 'Lucida Console', Monaco, monospace;
+	text-indent: 1px;
+	}
+
+.leaflet-touch .leaflet-control-zoom-in, .leaflet-touch .leaflet-control-zoom-out  {
+	font-size: 22px;
+	}
+
+
+/* layers control */
+
+.leaflet-control-layers {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+	background: #fff;
+	border-radius: 5px;
+	}
+.leaflet-control-layers-toggle {
+	background-image: url("blob:null/6b87906f-a89c-40c8-bb22-931c44d7e993");
+	width: 36px;
+	height: 36px;
+	}
+.leaflet-retina .leaflet-control-layers-toggle {
+	background-image: url("blob:null/dc52f2c3-2d37-4d82-9018-8685b38f2fb2");
+	background-size: 26px 26px;
+	}
+.leaflet-touch .leaflet-control-layers-toggle {
+	width: 44px;
+	height: 44px;
+	}
+.leaflet-control-layers .leaflet-control-layers-list,
+.leaflet-control-layers-expanded .leaflet-control-layers-toggle {
+	display: none;
+	}
+.leaflet-control-layers-expanded .leaflet-control-layers-list {
+	display: block;
+	position: relative;
+	}
+.leaflet-control-layers-expanded {
+	padding: 6px 10px 6px 6px;
+	color: #333;
+	background: #fff;
+	}
+.leaflet-control-layers-scrollbar {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding-right: 5px;
+	}
+.leaflet-control-layers-selector {
+	margin-top: 2px;
+	position: relative;
+	top: 1px;
+	}
+.leaflet-control-layers label {
+	display: block;
+	font-size: 13px;
+	font-size: 1.08333em;
+	}
+.leaflet-control-layers-separator {
+	height: 0;
+	border-top: 1px solid #ddd;
+	margin: 5px -10px 5px -6px;
+	}
+
+/* Default icon URLs */
+.leaflet-default-icon-path { /* used only in path-guessing heuristic, see L.Icon.Default */
+	background-image: url("blob:null/aae69294-8107-4241-a546-05d6b1c90703");
+	}
+
+
+/* attribution and scale controls */
+
+.leaflet-container .leaflet-control-attribution {
+	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
+	margin: 0;
+	}
+.leaflet-control-attribution,
+.leaflet-control-scale-line {
+	padding: 0 5px;
+	color: #333;
+	line-height: 1.4;
+	}
+.leaflet-control-attribution a {
+	text-decoration: none;
+	}
+.leaflet-control-attribution a:hover,
+.leaflet-control-attribution a:focus {
+	text-decoration: underline;
+	}
+.leaflet-attribution-flag {
+	display: inline !important;
+	vertical-align: baseline !important;
+	width: 1em;
+	height: 0.6669em;
+	}
+.leaflet-left .leaflet-control-scale {
+	margin-left: 5px;
+	}
+.leaflet-bottom .leaflet-control-scale {
+	margin-bottom: 5px;
+	}
+.leaflet-control-scale-line {
+	border: 2px solid #777;
+	border-top: none;
+	line-height: 1.1;
+	padding: 2px 5px 1px;
+	white-space: nowrap;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	background: rgba(255, 255, 255, 0.8);
+	text-shadow: 1px 1px #fff;
+	}
+.leaflet-control-scale-line:not(:first-child) {
+	border-top: 2px solid #777;
+	border-bottom: none;
+	margin-top: -2px;
+	}
+.leaflet-control-scale-line:not(:first-child):not(:last-child) {
+	border-bottom: 2px solid #777;
+	}
+
+.leaflet-touch .leaflet-control-attribution,
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	box-shadow: none;
+	}
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	border: 2px solid rgba(0,0,0,0.2);
+	background-clip: padding-box;
+	}
+
+
+/* popup */
+
+.leaflet-popup {
+	position: absolute;
+	text-align: center;
+	margin-bottom: 20px;
+	}
+.leaflet-popup-content-wrapper {
+	padding: 1px;
+	text-align: left;
+	border-radius: 12px;
+	}
+.leaflet-popup-content {
+	margin: 13px 24px 13px 20px;
+	line-height: 1.3;
+	font-size: 13px;
+	font-size: 1.08333em;
+	min-height: 1px;
+	}
+.leaflet-popup-content p {
+	margin: 17px 0;
+	margin: 1.3em 0;
+	}
+.leaflet-popup-tip-container {
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	left: 50%;
+	margin-top: -1px;
+	margin-left: -20px;
+	overflow: hidden;
+	pointer-events: none;
+	}
+.leaflet-popup-tip {
+	width: 17px;
+	height: 17px;
+	padding: 1px;
+
+	margin: -10px auto 0;
+	pointer-events: auto;
+
+	-webkit-transform: rotate(45deg);
+	   -moz-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	        transform: rotate(45deg);
+	}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background: white;
+	color: #333;
+	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+	}
+.leaflet-container a.leaflet-popup-close-button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: none;
+	text-align: center;
+	width: 24px;
+	height: 24px;
+	font: 16px/24px Tahoma, Verdana, sans-serif;
+	color: #757575;
+	text-decoration: none;
+	background: transparent;
+	}
+.leaflet-container a.leaflet-popup-close-button:hover,
+.leaflet-container a.leaflet-popup-close-button:focus {
+	color: #585858;
+	}
+.leaflet-popup-scrolled {
+	overflow: auto;
+	}
+
+.leaflet-oldie .leaflet-popup-content-wrapper {
+	-ms-zoom: 1;
+	}
+.leaflet-oldie .leaflet-popup-tip {
+	width: 24px;
+	margin: 0 auto;
+
+	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678)";
+	filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678);
+	}
+
+.leaflet-oldie .leaflet-control-zoom,
+.leaflet-oldie .leaflet-control-layers,
+.leaflet-oldie .leaflet-popup-content-wrapper,
+.leaflet-oldie .leaflet-popup-tip {
+	border: 1px solid #999;
+	}
+
+
+/* div icon */
+
+.leaflet-div-icon {
+	background: #fff;
+	border: 1px solid #666;
+	}
+
+
+/* Tooltip */
+/* Base styles for the element that has a tooltip */
+.leaflet-tooltip {
+	position: absolute;
+	padding: 6px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 3px;
+	color: #222;
+	white-space: nowrap;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: none;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+	}
+.leaflet-tooltip.leaflet-interactive {
+	cursor: pointer;
+	pointer-events: auto;
+	}
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	position: absolute;
+	pointer-events: none;
+	border: 6px solid transparent;
+	background: transparent;
+	content: "";
+	}
+
+/* Directions */
+
+.leaflet-tooltip-bottom {
+	margin-top: 6px;
+}
+.leaflet-tooltip-top {
+	margin-top: -6px;
+}
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-top:before {
+	left: 50%;
+	margin-left: -6px;
+	}
+.leaflet-tooltip-top:before {
+	bottom: 0;
+	margin-bottom: -12px;
+	border-top-color: #fff;
+	}
+.leaflet-tooltip-bottom:before {
+	top: 0;
+	margin-top: -12px;
+	margin-left: -6px;
+	border-bottom-color: #fff;
+	}
+.leaflet-tooltip-left {
+	margin-left: -6px;
+}
+.leaflet-tooltip-right {
+	margin-left: 6px;
+}
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	top: 50%;
+	margin-top: -6px;
+	}
+.leaflet-tooltip-left:before {
+	right: 0;
+	margin-right: -12px;
+	border-left-color: #fff;
+	}
+.leaflet-tooltip-right:before {
+	left: 0;
+	margin-left: -12px;
+	border-right-color: #fff;
+	}
+
+/* Printing */
+
+@media print {
+	/* Prevent printers from removing background-images of controls. */
+	.leaflet-control {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+		}
+	}
+
+
+body{margin:0;background:#FFFFFF;font-family:'Gotham Rounded',sans-serif;color:#000000}
+a{color:#0598A8;text-decoration:none}
+a:hover{text-decoration:underline}
+@keyframes bkMarquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.bk-marquee{animation:none!important}}

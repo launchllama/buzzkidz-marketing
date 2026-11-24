@@ -1,0 +1,758 @@
+[
+ {
+  "name": "img00.png",
+  "type": "image/png",
+  "size": 346685,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Buzz Kidz",
+    "cls": "",
+    "w": 8529,
+    "h": 2985
+   }
+  ]
+ },
+ {
+  "name": "img01.png",
+  "type": "image/png",
+  "size": 3859110,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Girl dancing in a Watch me Buzz T-shirt",
+    "cls": "",
+    "w": 3172,
+    "h": 2713
+   }
+  ]
+ },
+ {
+  "name": "img02.png",
+  "type": "image/png",
+  "size": 3347809,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Boy with arms outstretched in a Watch me Buzz T-shirt",
+    "cls": "",
+    "w": 3751,
+    "h": 2734
+   }
+  ]
+ },
+ {
+  "name": "img03.png",
+  "type": "image/png",
+  "size": 14900,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Education Alliance Finland",
+    "cls": "",
+    "w": 160,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img04.png",
+  "type": "image/png",
+  "size": 21314,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "HundrED",
+    "cls": "",
+    "w": 160,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img05.png",
+  "type": "image/png",
+  "size": 11594,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Mastercard Foundation",
+    "cls": "",
+    "w": 160,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img06.png",
+  "type": "image/png",
+  "size": 19116,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Nation Builder",
+    "cls": "",
+    "w": 160,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img07.png",
+  "type": "image/png",
+  "size": 21979,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Edupulse Africa",
+    "cls": "",
+    "w": 160,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img08.jpg",
+  "type": "image/jpeg",
+  "size": 274303,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz in Buzz shirts on stage with hands raised",
+    "cls": "",
+    "w": 2048,
+    "h": 1229
+   }
+  ]
+ },
+ {
+  "name": "img09.png",
+  "type": "image/png",
+  "size": 515464,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Original Content!",
+    "cls": "",
+    "w": 889,
+    "h": 590
+   }
+  ]
+ },
+ {
+  "name": "img10.jpg",
+  "type": "image/jpeg",
+  "size": 330093,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Teachers dancing together in a Buzz training session",
+    "cls": "",
+    "w": 1600,
+    "h": 1200
+   }
+  ]
+ },
+ {
+  "name": "img11.png",
+  "type": "image/png",
+  "size": 1229764,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Buzz in a Box",
+    "cls": "",
+    "w": 7080,
+    "h": 5413
+   }
+  ]
+ },
+ {
+  "name": "img12.jpg",
+  "type": "image/jpeg",
+  "size": 64291,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "",
+    "cls": "",
+    "w": 1280,
+    "h": 720
+   }
+  ]
+ },
+ {
+  "name": "img13.png",
+  "type": "image/png",
+  "size": 4213,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "South African flag heart",
+    "cls": "",
+    "w": 96,
+    "h": 80
+   }
+  ]
+ },
+ {
+  "name": "img14.webp",
+  "type": "image/webp",
+  "size": 7628,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Roedean School",
+    "cls": "",
+    "w": 282,
+    "h": 262
+   }
+  ]
+ },
+ {
+  "name": "img15.png",
+  "type": "image/png",
+  "size": 68779,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Pinnacle College Founders Hill",
+    "cls": "",
+    "w": 210,
+    "h": 226
+   }
+  ]
+ },
+ {
+  "name": "img16.jpg",
+  "type": "image/jpeg",
+  "size": 119910,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Crawford International",
+    "cls": "",
+    "w": 1200,
+    "h": 1200
+   }
+  ]
+ },
+ {
+  "name": "img17.png",
+  "type": "image/png",
+  "size": 38803,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Lycée Jules Verne",
+    "cls": "",
+    "w": 236,
+    "h": 334
+   }
+  ]
+ },
+ {
+  "name": "img18.png",
+  "type": "image/png",
+  "size": 12943,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Curro",
+    "cls": "",
+    "w": 288,
+    "h": 288
+   }
+  ]
+ },
+ {
+  "name": "img19.png",
+  "type": "image/png",
+  "size": 178217,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "St Peter’s College",
+    "cls": "",
+    "w": 808,
+    "h": 1191
+   }
+  ]
+ },
+ {
+  "name": "img20.png",
+  "type": "image/png",
+  "size": 18566,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "ADvTECH Group",
+    "cls": "",
+    "w": 366,
+    "h": 170
+   }
+  ]
+ },
+ {
+  "name": "img21.png",
+  "type": "image/png",
+  "size": 23252,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Nova Pioneer",
+    "cls": "",
+    "w": 240,
+    "h": 74
+   }
+  ]
+ },
+ {
+  "name": "img22.png",
+  "type": "image/png",
+  "size": 52588,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Reddam House",
+    "cls": "",
+    "w": 192,
+    "h": 266
+   }
+  ]
+ },
+ {
+  "name": "img23.png",
+  "type": "image/png",
+  "size": 70009,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Jan Celliers Laerskool en Preprimêr",
+    "cls": "",
+    "w": 208,
+    "h": 214
+   }
+  ]
+ },
+ {
+  "name": "img24.png",
+  "type": "image/png",
+  "size": 37203,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Trinity House",
+    "cls": "",
+    "w": 462,
+    "h": 150
+   }
+  ]
+ },
+ {
+  "name": "img25.png",
+  "type": "image/png",
+  "size": 25523,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Brescia House School",
+    "cls": "",
+    "w": 366,
+    "h": 168
+   }
+  ]
+ },
+ {
+  "name": "img26.png",
+  "type": "image/png",
+  "size": 77494,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Knights Preparatory School",
+    "cls": "",
+    "w": 602,
+    "h": 552
+   }
+  ]
+ },
+ {
+  "name": "img27.png",
+  "type": "image/png",
+  "size": 46208,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "King Edward VII Preparatory School",
+    "cls": "",
+    "w": 270,
+    "h": 348
+   }
+  ]
+ },
+ {
+  "name": "img28.png",
+  "type": "image/png",
+  "size": 74465,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Glenoaks School",
+    "cls": "",
+    "w": 1332,
+    "h": 318
+   }
+  ]
+ },
+ {
+  "name": "img29.png",
+  "type": "image/png",
+  "size": 473680,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "American International School of Johannesburg",
+    "cls": "",
+    "w": 1260,
+    "h": 800
+   }
+  ]
+ },
+ {
+  "name": "img30.png",
+  "type": "image/png",
+  "size": 11171,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Generation Schools",
+    "cls": "",
+    "w": 538,
+    "h": 160
+   }
+  ]
+ },
+ {
+  "name": "img31.png",
+  "type": "image/png",
+  "size": 93924,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "St Teresa’s School",
+    "cls": "",
+    "w": 440,
+    "h": 488
+   }
+  ]
+ },
+ {
+  "name": "img32.png",
+  "type": "image/png",
+  "size": 548883,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Jacaranda Montessori",
+    "cls": "",
+    "w": 1268,
+    "h": 1004
+   }
+  ]
+ },
+ {
+  "name": "img33.jpg",
+  "type": "image/jpeg",
+  "size": 326107,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "A group of kidz in Buzz shirts with arms outstretched",
+    "cls": "",
+    "w": 2048,
+    "h": 1365
+   }
+  ]
+ },
+ {
+  "name": "img34.jpg",
+  "type": "image/jpeg",
+  "size": 54426,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "A Buzz facilitator dancing with learners in a school library",
+    "cls": "",
+    "w": 752,
+    "h": 513
+   }
+  ]
+ },
+ {
+  "name": "img35.png",
+  "type": "image/png",
+  "size": 287495,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Mastercard Foundation",
+    "cls": "",
+    "w": 736,
+    "h": 730
+   }
+  ]
+ },
+ {
+  "name": "img36.png",
+  "type": "image/png",
+  "size": 68138,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Injini",
+    "cls": "",
+    "w": 538,
+    "h": 314
+   }
+  ]
+ },
+ {
+  "name": "img37.png",
+  "type": "image/png",
+  "size": 755223,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "National Film and Video Foundation",
+    "cls": "",
+    "w": 1728,
+    "h": 1288
+   }
+  ]
+ },
+ {
+  "name": "img38.png",
+  "type": "image/png",
+  "size": 191819,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "National Arts Council",
+    "cls": "",
+    "w": 2934,
+    "h": 1038
+   }
+  ]
+ },
+ {
+  "name": "img39.png",
+  "type": "image/png",
+  "size": 51555,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "DGMT",
+    "cls": "",
+    "w": 268,
+    "h": 280
+   }
+  ]
+ },
+ {
+  "name": "img40.png",
+  "type": "image/png",
+  "size": 349439,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "National Lotteries Commission",
+    "cls": "",
+    "w": 2505,
+    "h": 1888
+   }
+  ]
+ },
+ {
+  "name": "img41.png",
+  "type": "image/png",
+  "size": 674522,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Department of Sport, Arts and Culture",
+    "cls": "",
+    "w": 2797,
+    "h": 968
+   }
+  ]
+ },
+ {
+  "name": "img42.png",
+  "type": "image/png",
+  "size": 36986,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Otto Foundation",
+    "cls": "",
+    "w": 2296,
+    "h": 1388
+   }
+  ]
+ },
+ {
+  "name": "img43.png",
+  "type": "image/png",
+  "size": 181863,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Western Cape Government Education",
+    "cls": "",
+    "w": 622,
+    "h": 204
+   }
+  ]
+ },
+ {
+  "name": "img44.png",
+  "type": "image/png",
+  "size": 113857,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kgolo Community Development Trust",
+    "cls": "",
+    "w": 526,
+    "h": 494
+   }
+  ]
+ },
+ {
+  "name": "img45.png",
+  "type": "image/png",
+  "size": 119224,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Val de Vie Foundation",
+    "cls": "",
+    "w": 1885,
+    "h": 567
+   }
+  ]
+ },
+ {
+  "name": "img46.jpg",
+  "type": "image/jpeg",
+  "size": 49405,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Northern Cape Education Department",
+    "cls": "",
+    "w": 655,
+    "h": 655
+   }
+  ]
+ },
+ {
+  "name": "img47.png",
+  "type": "image/png",
+  "size": 2341717,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ {
+  "name": "img48.png",
+  "type": "image/png",
+  "size": 1117139,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 960,
+    "h": 639
+   }
+  ]
+ },
+ {
+  "name": "img49.jpg",
+  "type": "image/jpeg",
+  "size": 36695,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 414,
+    "h": 414
+   }
+  ]
+ },
+ {
+  "name": "img50.png",
+  "type": "image/png",
+  "size": 2899655,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 1399,
+    "h": 1400
+   }
+  ]
+ },
+ {
+  "name": "img51.jpg",
+  "type": "image/jpeg",
+  "size": 253162,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 2048,
+    "h": 1670
+   }
+  ]
+ },
+ {
+  "name": "img52.jpg",
+  "type": "image/jpeg",
+  "size": 424659,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Kidz buzzing",
+    "cls": "",
+    "w": 1944,
+    "h": 1296
+   }
+  ]
+ },
+ {
+  "name": "img53.png",
+  "type": "image/png",
+  "size": 194920,
+  "uses": [
+   {
+    "tag": "img",
+    "alt": "Buzz Kidz",
+    "cls": "",
+    "w": 5692,
+    "h": 2586
+   }
+  ]
+ }
+]
