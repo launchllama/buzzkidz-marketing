@@ -85,3 +85,12 @@ Follow-ups
   added and removed in the Editor.
 - Page slugs to old WordPress ones (table above), then point links at pages instead of URLs.
 - Footer (waiting on final design), menu contents (waiting on final menu).
+
+## 24 Nov, later: movement restored
+Buttons, programme options and stickers had been moved onto new `h2-*` classes, which cut them off
+from the site's hover effects on `bkh-btn-primary` and `bkh-bubble`. They are back on their original
+classes, with the new look as combo classes on top. Hover colours are Buzz-only (red, blue, yellow,
+grey, no black). A page-only embed adds a pulse on button hover, a gentle bob on the two stickers,
+and lift-on-hover for stats, badges, deploy cards and testimonials (all off for reduced motion).
+Kept throughout: word ticker, photo marquee, interactive map, hero kids animation, header shrink on scroll.
+Decision: follow the 23 Nov design file where it differs from the client's earlier Webflow comments.
