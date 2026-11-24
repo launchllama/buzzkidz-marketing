@@ -48,3 +48,40 @@ Franchise `/franchises`, Foundation `https://thebuzzfoundation.org`.
 | Team | (CMS /team) | /buzz-family (new static page) |
 | Where We Buzz | /where-we-buzz | /where-we-buzz (same) |
 | Franchises | /franchises | /franchises (same) |
+
+## Progress (24 Nov 2026)
+Built on the draft page **Home (new design)** (`/home-new-design`, draft, unpublished). The
+live Home page and the shared header are untouched: all restyling uses new `h2-*` classes or
+combo classes on top of the existing ones.
+
+Done
+- Header: new component **Site Header (new)** (copy of Site Header, the original is on 29 pages).
+  Red bar, Menu button on the left (same mega menu and scroll effect), logo + tagline centred,
+  social icons, Log in -> /buzz-in-a-box, Buzz us -> LeadConnector form (teal).
+- Hero: "Creativity" in red, single "Why we *buzz*" button -> /about-us, eyebrow and secondary links hidden.
+  Kids photo animation, rings and "Watch me buzz!" badge kept.
+- Our Offerings: white card heads with red/teal top border, new copy, 4 option buttons with arrows,
+  "Our original content" and "The Buzz Curriculum" stickers, CTAs "I want my child to *buzz*" and
+  "I want Buzz at my school!", adults CTA "I want to upskill my teachers". All links per the brief.
+- Video: yellow band, new subline, red "Watch on YouTube", 4 stat cards. Video embed kept.
+- Order now: hero, ticker, badges, offerings, video, schools logos, deploy cards, Where we buzz
+  (existing interactive map kept), partner logos, photo gallery (marquee kept), testimonials, footer.
+- Deploy: white section, "Delivering the Buzz" / "We deploy our programmes via", eyebrows,
+  "Learn more" (yellow) -> /franchises, "Read about our work" (grey) -> thebuzzfoundation.org.
+- Testimonials: "Testimonials" / "The Buzz on us", white background, red top border on cards
+  (still pulled from the Testimonials CMS).
+- Hidden (not deleted): audience tiles, Education heading, trust cards, facilitators, Buzz-in-a-Box,
+  Why we do what we do, research band, Original Content / Parties split. CTA banner removed from the draft only.
+
+Waiting on image uploads (need the Webflow Designer open with the MCP app)
+- 5 accreditation badge cards (replace the 3 current cards)
+- Photos in both offering cards, Original Content image, Buzz in a Box logo
+- Photos on the two deploy cards
+- New school logos (13) and partner logos (4) from the design
+
+Follow-ups
+- Logos and gallery photos are static images: swappable in the Editor, but adding/removing needs
+  the Designer. Option: move them to CMS lists (Logos collection already exists) so they can be
+  added and removed in the Editor.
+- Page slugs to old WordPress ones (table above), then point links at pages instead of URLs.
+- Footer (waiting on final design), menu contents (waiting on final menu).
