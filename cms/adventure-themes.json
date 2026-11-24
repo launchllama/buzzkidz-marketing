@@ -1,0 +1,174 @@
+[
+  {
+    "id": "6aa2dcf450763ba122976a76",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:17.143Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": null,
+      "synopsis": "Meet Trixie the Triceratops and friendly dinosaurs, returning a mamma plesiosaur's egg. Teaches the prehistoric world.",
+      "original-tracks": "The Dinosaur Rap, Life is Precious, Roar The Dinosaur",
+      "available-as-party-theme": false,
+      "party-synopsis": null,
+      "name": "Dinosaurs",
+      "slug": "dinosaurs"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a74",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.877Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d39",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d39_ALBUM-COVERS-02-scaled.jpeg",
+        "alt": "Fairytale Forest album cover"
+      },
+      "synopsis": "Jack invites fairytale friends to his beanstalk birthday party, but the Witch cuts the beanstalk down.",
+      "original-tracks": "The Glass Slipper, Gingerbread Bricks, Rapunzel, The Fairytale Rap",
+      "available-as-party-theme": true,
+      "party-synopsis": "Jack's birthday party at the top of his beanstalk goes wrong when the wicked witch chops it down. Can the birthday kidz get the Fairy Tale friends back down?",
+      "name": "Fairytale Forest",
+      "slug": "fairytale-forest"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a72",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.884Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d32",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d32_ALBUM-COVERS-03-scaled.jpeg",
+        "alt": "Around the World album cover"
+      },
+      "synopsis": "The Buzz Mobile travels the world collecting ingredients for Chef Soufflé and Phileas Fogg, teaching cultures, customs and traditional foods.",
+      "original-tracks": "The Food Samba, Buzz Mobile, World of Friends, Dance Around The World",
+      "available-as-party-theme": false,
+      "party-synopsis": null,
+      "name": "Around the World",
+      "slug": "around-the-world"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a70",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.855Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d28",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d28_ALBUM-COVERS-04-scaled.jpeg",
+        "alt": "Under the Sea album cover"
+      },
+      "synopsis": "Help Shelley the Shark find the Whale Queen's lost Pearl of the Ocean before the Electric Eels get it.",
+      "original-tracks": "Shelley Shark, Eel Attack, Pearl of the Ocean, Sea Soul Disco",
+      "available-as-party-theme": false,
+      "party-synopsis": null,
+      "name": "Under the Sea",
+      "slug": "under-the-sea"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a6e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.827Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d20",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d20_ALBUM-COVERS-01-scaled.jpeg",
+        "alt": "Mermaids and Pirates album cover"
+      },
+      "synopsis": "An island adventure to Treasure Island to find the Magical Coconut, meeting Patrick the Pirate.",
+      "original-tracks": "The Mermaid Mambo, Patrick the Pirate, The Magical Coconut, Island Boogie",
+      "available-as-party-theme": true,
+      "party-synopsis": "The Mermaid Queen's magical Coconut has been stolen by Captain Hook — a hearty adventure to Treasure Island to get it back.",
+      "name": "Mermaids and Pirates",
+      "slug": "mermaids-and-pirates"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a6c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.834Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d1d",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d1d_ALBUM-COVERS-07-scaled.jpeg",
+        "alt": "Superheroes album cover"
+      },
+      "synopsis": "Join Buzz Superheroes Bounce, Blast and more as they defend Planet Hero.",
+      "original-tracks": "Bounce and Blast, United Heroes, Precious Powers, Superhero Swing",
+      "available-as-party-theme": true,
+      "party-synopsis": "A superhero from Planet Hero needs brave birthday kidz to help fight baddies and restore peace to the galaxies.",
+      "name": "Superheroes",
+      "slug": "superheroes"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a6a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:58:07.798Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d1a",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d1a_ALBUM-COVERS-05-scaled.jpeg",
+        "alt": "Outer Space album cover"
+      },
+      "synopsis": "They meet Scotty the Spaceman, on a mission to keep the galaxies safe from villain Galliumina and her Gas-o-Thron 3000. Teaches the solar system and global warming.",
+      "original-tracks": "Space Jam Beat, Scotty the Spaceman, Rock Out Rocket Ship, Just Like a Star",
+      "available-as-party-theme": false,
+      "party-synopsis": null,
+      "name": "Outer Space",
+      "slug": "outer-space"
+    }
+  },
+  {
+    "id": "6aa2dcf450763ba122976a68",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:57:54.615Z",
+    "createdOn": "2026-09-10T16:38:12.423Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "poster": {
+        "fileId": "6ad870748091dd35cc534d23",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870748091dd35cc534d23_ALBUM-COVERS-06-scaled.jpeg",
+        "alt": "African Safari album cover"
+      },
+      "synopsis": "Thandi, Ben and Zadie meet Jabulani the Giraffe and Ella the Elephant on their quest to save Rafiki the Rhino.",
+      "original-tracks": "Big Five Jive, Buzzin' and a-Bushwackin', Ella the Elephant, Mama Africa, Savannah Sunsets",
+      "available-as-party-theme": true,
+      "party-synopsis": "Our Buzz African Safari Party is packed with high energy games and challenges for the kidz to help us save Rafiki the Rhino. Poachers seem to be involved — it's up to us to help Jabulani the Giraffe and Ella the Elephant rescue Rafiki.",
+      "name": "African Safari",
+      "slug": "african-safari"
+    }
+  }
+]

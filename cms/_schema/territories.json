@@ -1,0 +1,83 @@
+{
+  "id": "6a8ed9c17932c3cb0225cfe5",
+  "displayName": "Territories",
+  "singularName": "Territory",
+  "slug": "territories",
+  "createdOn": "2026-08-26T12:19:13.450Z",
+  "lastUpdated": "2026-08-26T12:19:23.051Z",
+  "fields": [
+    {
+      "id": "d66cc7610adfa3be88a46b5a60246f35",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "country",
+      "displayName": "Country",
+      "validations": {
+        "options": [
+          {
+            "name": "South Africa",
+            "id": "e8752769a4d9b2fb698d26567c94164a"
+          },
+          {
+            "name": "USA",
+            "id": "e733896244199b6e6c6922609c0549dc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1f7bb7617f86dd684c658a95bc947f7",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "MultiReference",
+      "slug": "franchisees",
+      "displayName": "Franchisees",
+      "helpText": "One territory can have 1-2 co-owners; one franchisee can run more than one territory",
+      "validations": {
+        "collectionId": "6a8ed0cc7c0b44bdc16dd99d"
+      }
+    },
+    {
+      "id": "cbd8902044fda0578138b3ed73e0310f",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "sort-order",
+      "displayName": "Sort Order",
+      "validations": {
+        "format": "integer",
+        "allowNegative": true,
+        "precision": 1
+      }
+    },
+    {
+      "id": "af67beb4426fe85f079c70ec7db47e24",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "40a931e428806feb6b63590a0c62a84f",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

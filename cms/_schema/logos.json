@@ -1,0 +1,83 @@
+{
+  "id": "6a8ed0cfb088d160c155dc9f",
+  "displayName": "Logos",
+  "singularName": "Logo",
+  "slug": "logos",
+  "createdOn": "2026-08-26T11:41:03.204Z",
+  "lastUpdated": "2026-08-26T11:41:48.506Z",
+  "fields": [
+    {
+      "id": "c365fe6e8a7cdd70426c290ffae70ae6",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Image",
+      "slug": "logo",
+      "displayName": "Logo"
+    },
+    {
+      "id": "14736fbfac503305a26b8eda0847d9a4",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Link",
+      "slug": "link",
+      "displayName": "Link",
+      "helpText": "Optional, mainly for accreditation badges like hundrED"
+    },
+    {
+      "id": "7ca7b944d4193fd8ab2905620bc13427",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "category",
+      "displayName": "Category",
+      "validations": {
+        "options": [
+          {
+            "name": "Partner",
+            "id": "039296efa8c0693d6abb39766c18bb67"
+          },
+          {
+            "name": "Sponsor",
+            "id": "dcacf295238852d0a44242ebf5167b1d"
+          },
+          {
+            "name": "School",
+            "id": "c08f367c44e8a04984bc57c3d5561c9a"
+          },
+          {
+            "name": "Accreditation",
+            "id": "431dc0991f1500fbbd44736c42a0c016"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c757ed753ca2d378bfcd4f248c914e4c",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "8d10104361956216b7f8c3f50939c4ee",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

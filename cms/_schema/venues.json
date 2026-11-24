@@ -1,0 +1,129 @@
+{
+  "id": "6a8ed0cafd9787a0a4326e57",
+  "displayName": "Venues",
+  "singularName": "Venue",
+  "slug": "venues",
+  "createdOn": "2026-08-26T11:40:58.989Z",
+  "lastUpdated": "2026-09-10T16:37:46.505Z",
+  "fields": [
+    {
+      "id": "994bbfb0ef0ea20e4a4e660481c4d48b",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "region",
+      "displayName": "Region",
+      "helpText": "e.g. Johannesburg, Pretoria, Cape Town, Secunda, Salt Lake City"
+    },
+    {
+      "id": "4778f74e46f14792c5e201078350c043",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "city-suburb",
+      "displayName": "City / Suburb"
+    },
+    {
+      "id": "6d949e0cc2d0e4dbba40a4cfe71f7878",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "type",
+      "displayName": "Type",
+      "validations": {
+        "options": [
+          {
+            "name": "School",
+            "id": "333ca233fb9ed9a9fbc4cae3a41524ee"
+          },
+          {
+            "name": "Independent Workshop",
+            "id": "48dd1d3b5f91adba10717cc4d53ffb1f"
+          },
+          {
+            "name": "Other Venue",
+            "id": "3f3984095844392ff92cb233fc2444dd"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9cce07800a2e36e812ef55bc9c18762",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "country",
+      "displayName": "Country",
+      "validations": {
+        "options": [
+          {
+            "name": "South Africa",
+            "id": "ed8dfd66a914b071e6ed0e9a1405a3aa"
+          },
+          {
+            "name": "USA",
+            "id": "884669b90f7c11b1673f575808212fa0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe12748330b191af538cd4e23509c1e3",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Reference",
+      "slug": "franchisee",
+      "displayName": "Franchisee",
+      "helpText": "Optional — nice-to-have, not required for launch",
+      "validations": {
+        "collectionId": "6a8ed0cc7c0b44bdc16dd99d"
+      }
+    },
+    {
+      "id": "756de680eca51fd7f4813126dbb4ddf3",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "schedule",
+      "displayName": "Schedule",
+      "helpText": "Day(s) and time slot(s), e.g. \"Tue & Wed, Gr00-Tue 10:45-11:45; Gr0-Wed 10:30-12:30\""
+    },
+    {
+      "id": "14940484525586179a592f7cca01ccb9",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "address",
+      "displayName": "Address",
+      "helpText": "Street address as pulled from the old site"
+    },
+    {
+      "id": "3a4874ac94c933e9004688b81e837122",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "4b631b9e27651397d04457f8ac7be19a",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

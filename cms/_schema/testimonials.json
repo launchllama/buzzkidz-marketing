@@ -1,0 +1,120 @@
+{
+  "id": "6a8ed0cee8ee8d0f9d8c86f3",
+  "displayName": "Testimonials",
+  "singularName": "Testimonial",
+  "slug": "testimonials",
+  "createdOn": "2026-08-26T11:41:02.747Z",
+  "lastUpdated": "2026-08-26T12:19:36.444Z",
+  "fields": [
+    {
+      "id": "66351c0594279da79c32edb4b6d87732",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "quote",
+      "displayName": "Quote"
+    },
+    {
+      "id": "c8f87c10e5f5dd05c29fe1d28c60b1ad",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "author",
+      "displayName": "Author"
+    },
+    {
+      "id": "0f9c6e2b3778b82b43e0ab6afc480a05",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "role-org",
+      "displayName": "Role / Org"
+    },
+    {
+      "id": "b31e30151503aa859bf0eb457160148b",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "primary-page-2",
+      "displayName": "Primary Page",
+      "helpText": "For reuse on a second page, duplicate the item rather than adding multi-select for v1",
+      "validations": {
+        "options": [
+          {
+            "name": "Home",
+            "id": "f65d325e48f472f5a5ff28f954a67142"
+          },
+          {
+            "name": "To Schools",
+            "id": "0cf4a7ce2c7878e82ef876cd56b8ff58"
+          },
+          {
+            "name": "Parties",
+            "id": "cafee439dbd2e0561f2a6e2028ce2d8b"
+          },
+          {
+            "name": "Music",
+            "id": "70a99bff1d3134f05ede2d414048f406"
+          },
+          {
+            "name": "Podcast",
+            "id": "1407027e652f2f258fa79a10920b6524"
+          },
+          {
+            "name": "How We Buzz",
+            "id": "4a0b97d20f5dd91b4f668d0dd0f0a77c"
+          },
+          {
+            "name": "Franchise Opportunity",
+            "id": "0586785d9d9a6e6f62bce2029ec788b5"
+          },
+          {
+            "name": "Foundation",
+            "id": "6adf3e6372cc11705fce9e5776f660a7"
+          },
+          {
+            "name": "Grown-Ups",
+            "id": "3eb852fd9b9a04bbe178ec596c08e8e1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b527ea75384c9a5cd0a54dddd7226a36",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Switch",
+      "slug": "featured",
+      "displayName": "Featured",
+      "helpText": "Pin to the homepage carousel"
+    },
+    {
+      "id": "3058d4988e59d5cbd80afc1763cd6ccf",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "c69745dbdd3b11f2fb80fd3d731a5f42",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

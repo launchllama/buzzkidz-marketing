@@ -1,0 +1,104 @@
+{
+  "id": "6a8ed0cda1df71c59d0234d5",
+  "displayName": "Team",
+  "singularName": "Team Member",
+  "slug": "team",
+  "createdOn": "2026-08-26T11:41:01.014Z",
+  "lastUpdated": "2026-08-26T11:41:42.102Z",
+  "fields": [
+    {
+      "id": "7236a47143c326a0ca789e5622deee5b",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "photo",
+      "displayName": "Photo"
+    },
+    {
+      "id": "87e04580f9db162a81dc2e4346f3e93e",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "role-title",
+      "displayName": "Role / Title"
+    },
+    {
+      "id": "e5aec9be673b918813d6b7e0589569f7",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "bio",
+      "displayName": "Bio"
+    },
+    {
+      "id": "17d604cb15802a007a8358217c1ba01c",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "sort-order",
+      "displayName": "Sort Order",
+      "helpText": "Founder first, board next, leadership, then facilitators",
+      "validations": {
+        "format": "integer",
+        "allowNegative": true,
+        "precision": 1
+      }
+    },
+    {
+      "id": "31fefc98d2dcf79946a479feb81e70d6",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "category",
+      "displayName": "Category",
+      "validations": {
+        "options": [
+          {
+            "name": "Founder",
+            "id": "ec38999604409f10913c5a4c4d69e4e1"
+          },
+          {
+            "name": "Board",
+            "id": "6a15afb264102288537100f28577e372"
+          },
+          {
+            "name": "Leadership",
+            "id": "c25b997ec0ff3b3d4d7dd178974f9735"
+          },
+          {
+            "name": "Facilitator",
+            "id": "4b72b9ced5027e102fe35aa24483eeea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10c71e3eade0f9707ca8ee63dfdd5788",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "5d9272f5c59eff9706feaa5df9842e76",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

@@ -1,0 +1,571 @@
+[
+  {
+    "id": "6aa2ddb33568af1488b7588c",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6aa2ddb33568af1488b75886",
+    "title": "Party Themes Template",
+    "slug": "detail_party-themes",
+    "createdOn": "2026-09-10T16:41:23.472Z",
+    "lastUpdated": "2026-10-22T10:25:25.936Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/party-themes"
+  },
+  {
+    "id": "6aa2dce7bd804e298d6a7d00",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Terms & Insurance",
+    "slug": "terms-and-insurance",
+    "createdOn": "2026-09-10T16:37:59.810Z",
+    "lastUpdated": "2026-10-21T12:00:54.496Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/terms-and-insurance"
+  },
+  {
+    "id": "6aa2dce70a18e2400b8967e0",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "parentId": "6a8ed2568005a09bdc66de40",
+    "title": "Brand Stages",
+    "slug": "brand-stages",
+    "createdOn": "2026-09-10T16:37:59.341Z",
+    "lastUpdated": "2026-11-06T07:22:22.970Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {
+      "title": "Brand Stages | Buzz Kidz",
+      "description": "The ages we Buzz with: Buzz Bubbas (0-3), Buzzeez (3-5), Buzz (5-9) and the Buzz Academy of Performing Arts (9-13)."
+    },
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/services/brand-stages"
+  },
+  {
+    "id": "6aa2dce6f4e514a32f725ead",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Contact",
+    "slug": "contact",
+    "createdOn": "2026-09-10T16:37:58.808Z",
+    "lastUpdated": "2026-10-21T11:27:44.571Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/contact"
+  },
+  {
+    "id": "6aa2dcdb25ceac00ddd6d598",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6aa2dcda25ceac00ddd6d56c",
+    "title": "Podcast Episodes Template",
+    "slug": "detail_podcast-episodes",
+    "createdOn": "2026-09-10T16:37:47.428Z",
+    "lastUpdated": "2026-10-22T10:25:25.943Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/podcast-episodes"
+  },
+  {
+    "id": "6a8edb05e965519a1c8c00f1",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "parentId": "6a8ed2568005a09bdc66de40",
+    "title": "Creative Content",
+    "slug": "creative-content",
+    "createdOn": "2026-08-26T12:24:37.822Z",
+    "lastUpdated": "2026-11-06T07:22:33.142Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {
+      "title": "Creative Content | Buzz Kidz"
+    },
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/services/creative-content"
+  },
+  {
+    "id": "6a8edb05e965519a1c8c00ca",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Services",
+    "slug": "services",
+    "createdOn": "2026-08-26T12:24:37.323Z",
+    "lastUpdated": "2026-11-06T07:20:41.226Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {
+      "title": "Our Services | Buzz Kidz"
+    },
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/services"
+  },
+  {
+    "id": "6a8ed9c29d5438669dc9017a",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed9c29d5438669dc9014d",
+    "title": "Blog Posts Template",
+    "slug": "detail_blog",
+    "createdOn": "2026-08-26T12:19:14.685Z",
+    "lastUpdated": "2026-10-22T10:25:25.938Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/blog"
+  },
+  {
+    "id": "6a8ed9c17932c3cb0225cfeb",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed9c17932c3cb0225cfe5",
+    "title": "Territories Template",
+    "slug": "detail_territories",
+    "createdOn": "2026-08-26T12:19:13.789Z",
+    "lastUpdated": "2026-10-22T10:25:46.543Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/territories"
+  },
+  {
+    "id": "6a8ed0cfb088d160c155dca5",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0cfb088d160c155dc9f",
+    "title": "Logos Template",
+    "slug": "detail_logos",
+    "createdOn": "2026-08-26T11:41:03.511Z",
+    "lastUpdated": "2026-10-22T10:25:56.680Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/logos"
+  },
+  {
+    "id": "6a8ed0cfe8ee8d0f9d8c86f9",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0cee8ee8d0f9d8c86f3",
+    "title": "Testimonials Template",
+    "slug": "detail_testimonials",
+    "createdOn": "2026-08-26T11:41:03.069Z",
+    "lastUpdated": "2026-10-22T10:25:46.542Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/testimonials"
+  },
+  {
+    "id": "6a8ed0ce46a3110da4fdfb62",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0ce46a3110da4fdfb48",
+    "title": "Adventure Themes Template",
+    "slug": "detail_adventure-themes",
+    "createdOn": "2026-08-26T11:41:02.549Z",
+    "lastUpdated": "2026-10-22T10:25:25.935Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/adventure-themes"
+  },
+  {
+    "id": "6a8ed0cda1df71c59d023529",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0cda1df71c59d0234d5",
+    "title": "Team Template",
+    "slug": "detail_team",
+    "createdOn": "2026-08-26T11:41:01.846Z",
+    "lastUpdated": "2026-10-22T10:25:36.290Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/team"
+  },
+  {
+    "id": "6a8ed0cc7c0b44bdc16dd9d1",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0cc7c0b44bdc16dd99d",
+    "title": "Franchisees Template",
+    "slug": "detail_franchisees",
+    "createdOn": "2026-08-26T11:41:00.703Z",
+    "lastUpdated": "2026-10-22T10:25:36.280Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/franchisees"
+  },
+  {
+    "id": "6a8ed0cbfd9787a0a4326ea8",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "collectionId": "6a8ed0cafd9787a0a4326e57",
+    "title": "Venues Template",
+    "slug": "detail_venues",
+    "createdOn": "2026-08-26T11:40:59.555Z",
+    "lastUpdated": "2026-10-22T17:19:54.338Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/venues"
+  },
+  {
+    "id": "6a8ed0c9fd9787a0a4326d2f",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Thank You",
+    "slug": "thank-you",
+    "createdOn": "2026-08-26T11:40:57.251Z",
+    "lastUpdated": "2026-10-28T08:18:27.314Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/thank-you"
+  },
+  {
+    "id": "6a8ed0c8fd9787a0a4326c89",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Buzz for Grown-Ups",
+    "slug": "buzz-for-grown-ups",
+    "createdOn": "2026-08-26T11:40:56.688Z",
+    "lastUpdated": "2026-10-28T08:22:10.230Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/buzz-for-grown-ups"
+  },
+  {
+    "id": "6a8ed0c8328055c0ff9c5bf8",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Buzz Blog",
+    "slug": "buzz-blog",
+    "createdOn": "2026-08-26T11:40:56.354Z",
+    "lastUpdated": "2026-10-22T10:41:21.449Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/buzz-blog"
+  },
+  {
+    "id": "6a8ed0c8d94df1cc943e473f",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "About",
+    "slug": "about",
+    "createdOn": "2026-08-26T11:40:56.057Z",
+    "lastUpdated": "2026-11-06T07:21:32.180Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/about"
+  },
+  {
+    "id": "6a8ed0c7c17b711a7fbc600d",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Foundation",
+    "slug": "foundation",
+    "createdOn": "2026-08-26T11:40:55.526Z",
+    "lastUpdated": "2026-11-06T07:22:02.385Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/foundation"
+  },
+  {
+    "id": "6a8ed0c78b97cd04210b65f6",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Franchises",
+    "slug": "franchises",
+    "createdOn": "2026-08-26T11:40:55.032Z",
+    "lastUpdated": "2026-11-06T07:21:02.013Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/franchises"
+  },
+  {
+    "id": "6a8ed0c68b97cd04210b65a4",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Partner With Us",
+    "slug": "partner-with-us",
+    "createdOn": "2026-08-26T11:40:54.569Z",
+    "lastUpdated": "2026-11-06T07:22:02.435Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/partner-with-us"
+  },
+  {
+    "id": "6a8ed0c6da8eabb79f173b57",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Where We Buzz",
+    "slug": "where-we-buzz",
+    "createdOn": "2026-08-26T11:40:54.049Z",
+    "lastUpdated": "2026-11-06T07:20:51.802Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/where-we-buzz"
+  },
+  {
+    "id": "6a8ed0c11b998ed5835923c6",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "How We Buzz",
+    "slug": "how-we-buzz",
+    "createdOn": "2026-08-26T11:40:49.289Z",
+    "lastUpdated": "2026-11-06T07:22:12.767Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {
+      "title": "How We Buzz and Our Curriculum | Buzz Kidz",
+      "description": "What happens in a Buzz workshop, our characters and adventure themes, and the curriculum we use for kidz from 0 to 13."
+    },
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/how-we-buzz"
+  },
+  {
+    "id": "6a8ed0bdc26dd5c53ac5ad6a",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "parentId": "6a8ed2568005a09bdc66de40",
+    "title": "Parties",
+    "slug": "parties",
+    "createdOn": "2026-08-26T11:40:45.850Z",
+    "lastUpdated": "2026-11-06T08:06:49.279Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/services/parties"
+  },
+  {
+    "id": "6a8ed0bdda8eabb79f17341b",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "parentId": "6a8ed2568005a09bdc66de40",
+    "title": "To Schools",
+    "slug": "to-schools",
+    "createdOn": "2026-08-26T11:40:45.104Z",
+    "lastUpdated": "2026-11-06T07:18:19.972Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/services/to-schools"
+  },
+  {
+    "id": "6a8ed0bcecd28aa19762d7ce",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Why Buzz",
+    "slug": "why-buzz",
+    "createdOn": "2026-08-26T11:40:44.155Z",
+    "lastUpdated": "2026-11-06T07:18:09.735Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "titleCopied": false,
+      "descriptionCopied": false,
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/why-buzz"
+  },
+  {
+    "id": "6a6cb6353d9e36d497fa85e8",
+    "siteId": "6a6cb6333d9e36d497fa85aa",
+    "title": "Home",
+    "createdOn": "2026-07-31T14:50:29.214Z",
+    "lastUpdated": "2026-11-06T08:09:40.438Z",
+    "archived": false,
+    "draft": false,
+    "shouldPublish": true,
+    "canBranch": true,
+    "isBranch": false,
+    "seo": {},
+    "openGraph": {
+      "imageUrl": null,
+      "imageAssetId": null
+    },
+    "publishedPath": "/"
+  }
+]

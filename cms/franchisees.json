@@ -1,0 +1,222 @@
+[
+  {
+    "id": "6aa2dd04f4e514a32f727355",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:17.016Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db3881c",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db3881c_Untitled-design-19-1.png",
+        "alt": "Ellen Hatch, Buzz Kidz franchisee"
+      },
+      "bio": "Educator with 10+ years of classroom experience. Graduate of the University of Utah in Elementary Education.",
+      "country": "68e2867447ba792af97cd625505837f6",
+      "name": "Ellen Hatch",
+      "slug": "ellen-hatch"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727353",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.944Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38811",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38811_Jamie-Buzz-Headshot-1.png",
+        "alt": "Jamie Willcox, Buzz Kidz franchisee"
+      },
+      "bio": "Theatre maker and educator from Salt Lake City. Artistic Director of a performing arts program for young people for 14 years, running her own creative arts consultancy for 5 years. MA in Applied Theatre from the Royal Central School of Speech and Drama, London (2011).",
+      "country": "68e2867447ba792af97cd625505837f6",
+      "name": "Jamie Willcox",
+      "slug": "jamie-willcox"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727351",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:17.056Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38824",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38824_2-1-1-scaled.png",
+        "alt": "Eza Stofile, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz East London. Degree in Business Management from Cape Peninsula University of Technology. Devoted mother of two, passionate about child development and unlocking creativity in young minds.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Eza Stofile",
+      "slug": "eza-stofile"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f72734f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.701Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38800",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38800_WhatsApp-Image-2022-09-17-at-10.19.59-e1663582460925.jpeg",
+        "alt": "Lizette Uys, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz Highveld (Secunda, Middelburg, Standerton). Studied drama at University of Stellenbosch, specialising in interactive theatre. Runs her own company, Alight, combining drama techniques with counselling.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Lizette Uys",
+      "slug": "lizette-uys"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f72734d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.709Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38805",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38805_Copy-of-Untitled-Design-scaled.jpeg",
+        "alt": "Deborah Polonsky, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz Bay (Camps Bay, Hout Bay, Kommetjie, Noordhoek, Kalk Bay). Studied Integrative Arts Psychotherapy in London, with further psychotherapy studies in South Africa. Mother of two.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Deborah Polonsky",
+      "slug": "deborah-polonsky"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f72734b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.936Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db3880b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db3880b_IMG_1001-scaled.jpeg",
+        "alt": "Alexander du Plessis, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz Table Bay (Malmesbury to Century City) and Buzz Kidz Boland (Wellington, Paarl, Franschhoek). Graduated UCT in English and Theatre & Performance (2005); has worked as director, producer, editor and actor for stage and screen, and taught in the UAE, Japan, Taiwan and South Africa.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Alexander du Plessis",
+      "slug": "alexander-du-plessis"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727349",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.710Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db387fc",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db387fc_Linzi-Profile-Pic-scaled.jpeg",
+        "alt": "Linzi Isaacs, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz Constantiaberg (Wynberg, Constantia, Tokai, Muizenberg). Honours in Industrial and Organisational Psychology. Mother of two boys.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Linzi Isaacs",
+      "slug": "linzi-isaacs"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727347",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.937Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db3880e",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db3880e_Screenshot-2025-07-24-at-14.30.12.png",
+        "alt": "Lizahn Bester, Buzz Kidz franchisee"
+      },
+      "bio": "Co-owner of Buzz Kidz Pretoria East. Studied drama at Tshwane University of Technology, specialising in Educational Theatre and Dance. Runs her own children's theatre company, Redhead Productions.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Lizahn Bester",
+      "slug": "lizahn-bester"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727345",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.939Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38808",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38808_Screenshot-2025-07-24-at-14.30.00.png",
+        "alt": "Elaine Naudé, Buzz Kidz franchisee"
+      },
+      "bio": "Co-owner of Buzz Kidz Pretoria East. B-Tech in Drama from Tshwane University of Technology, specialising in educational and children's theatre. Qualified adjudicator and public speaking coach.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Elaine Naudé",
+      "slug": "elaine-naude"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727343",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:16.967Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad870209963281f7db38815",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad870209963281f7db38815_20230414_1045344.jpeg",
+        "alt": "Keryn du Preez, Buzz Kidz franchisee"
+      },
+      "bio": "Owner of Buzz Kidz Fourways (Fourways, Lonehill, Douglasdale and surrounds). Studied drama at Rhodes University, specialising in Acting and Educational Drama and Theatre. Career has spanned adult training/facilitation, communications and commercial management.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Keryn du Preez",
+      "slug": "keryn-du-preez"
+    }
+  },
+  {
+    "id": "6aa2dd04f4e514a32f727341",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:54:58.307Z",
+    "createdOn": "2026-09-10T16:38:28.921Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad86fd23cf019e91e9349b4",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad86fd23cf019e91e9349b4_Hanneke-Head-Shot-2024.png",
+        "alt": "Hanneke Mackie, founder of Buzz Kidz"
+      },
+      "bio": "Founder of Buzz Kidz and the Franchisor; also MD of Buzz Kidz and The Buzz Foundation NPC. Takes care of the Randburg and Sandton areas.",
+      "country": "e2e3f6b48c7617151eb0ffe103a8c518",
+      "name": "Hanneke Mackie",
+      "slug": "hanneke-mackie"
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "6ad873dc05617276a6456776",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:44.652Z",
+    "createdOn": "2026-10-21T08:12:12.555Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873dc05617276a645675c",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873dc05617276a645675c_crawford-Schools.jpeg",
+        "alt": "Crawford Schools crest"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Crawford Schools",
+      "slug": "crawford-schools"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456774",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:44.685Z",
+    "createdOn": "2026-10-21T08:12:12.416Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873dc05617276a6456757",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873dc05617276a6456757_sandton-Junior.jpeg",
+        "alt": "Sandton Junior school crest"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Sandton Junior",
+      "slug": "sandton-junior"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456770",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:44.655Z",
+    "createdOn": "2026-10-21T08:12:11.949Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873db05617276a645674d",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873db05617276a645674d_French-School.png",
+        "alt": "Lycée Jules Verne logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Lycée Jules Verne",
+      "slug": "lycee-jules-verne"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a645676e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:44.615Z",
+    "createdOn": "2026-10-21T08:12:11.706Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873db05617276a6456748",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873db05617276a6456748_Logo-22.png",
+        "alt": "Bizweni Primary logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Bizweni Primary",
+      "slug": "bizweni-primary"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a645676c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:11.445Z",
+    "createdOn": "2026-10-21T08:12:11.445Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873db05617276a6456743",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873db05617276a6456743_logo-St-teresa-.png",
+        "alt": "St Teresa's School logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "St Teresa's School",
+      "slug": "st-teresas-school"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a645676a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:11.144Z",
+    "createdOn": "2026-10-21T08:12:11.144Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873db05617276a645673e",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873db05617276a645673e_McAuley-School.png",
+        "alt": "McAuley House School logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "McAuley House School",
+      "slug": "mcauley-house-school"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456768",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:10.896Z",
+    "createdOn": "2026-10-21T08:12:10.896Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873da05617276a6456739",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873da05617276a6456739_skye-college-logo.png",
+        "alt": "Skye College logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Skye College",
+      "slug": "skye-college"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456766",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:10.631Z",
+    "createdOn": "2026-10-21T08:12:10.631Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873da05617276a6456734",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873da05617276a6456734_roedean_logo_standard.png",
+        "alt": "Roedean School logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Roedean School",
+      "slug": "roedean-school"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456764",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:10.369Z",
+    "createdOn": "2026-10-21T08:12:10.369Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873da05617276a645672f",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873da05617276a645672f_pinnaclecollege_foundershill_Logo_stack-640w.png",
+        "alt": "Pinnacle College Founders Hill logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Pinnacle College Founders Hill",
+      "slug": "pinnacle-college-founders-hill"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456762",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:10.122Z",
+    "createdOn": "2026-10-21T08:12:10.122Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873da05617276a645672a",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873da05617276a645672a_kingsmead-logo-1.png",
+        "alt": "Kingsmead College logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Kingsmead College",
+      "slug": "kingsmead-college"
+    }
+  },
+  {
+    "id": "6ad873dc05617276a6456760",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:12:09.870Z",
+    "createdOn": "2026-10-21T08:12:09.870Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad873d905617276a6456725",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad873d905617276a6456725_curro-logo.png",
+        "alt": "Curro Schools logo"
+      },
+      "link": null,
+      "category": "c08f367c44e8a04984bc57c3d5561c9a",
+      "name": "Curro",
+      "slug": "curro"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c601c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:07.056Z",
+    "createdOn": "2026-10-21T08:03:07.056Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871badb454f7a154c5fec",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871badb454f7a154c5fec_6a90133463fc5d2ba5f8a656_otto-foundation.png",
+        "alt": "OTTO Foundation logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "OTTO Foundation",
+      "slug": "otto-foundation"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c601a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:06.587Z",
+    "createdOn": "2026-10-21T08:03:06.587Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871badb454f7a154c5f9c",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871badb454f7a154c5f9c_6a9013344a84a8e59e787213_dsac-sport-arts-culture.png",
+        "alt": "Department of Sport, Arts and Culture logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "Department of Sport, Arts and Culture",
+      "slug": "dsac"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c6018",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:06.037Z",
+    "createdOn": "2026-10-21T08:03:06.037Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b9db454f7a154c5f57",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b9db454f7a154c5f57_6a9013354889a4ba57bbc0eb_national-lotteries-commission.png",
+        "alt": "National Lotteries Commission logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "National Lotteries Commission",
+      "slug": "national-lotteries-commission"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c6016",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:04.804Z",
+    "createdOn": "2026-10-21T08:03:04.804Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b8db454f7a154c5edc",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b8db454f7a154c5edc_6a901334711bbf84c666a404_dgmt.png",
+        "alt": "DGMT logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "DGMT",
+      "slug": "dgmt"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c6014",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:04.177Z",
+    "createdOn": "2026-10-21T08:03:04.177Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b7db454f7a154c5e99",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b7db454f7a154c5e99_6a9013345f737fe02f90e92a_national-arts-council.png",
+        "alt": "National Arts Council logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "National Arts Council",
+      "slug": "national-arts-council"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c6012",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:03.495Z",
+    "createdOn": "2026-10-21T08:03:03.495Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b7db454f7a154c5e2e",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b7db454f7a154c5e2e_6a90133463fc5d2ba5f8a659_nfvf.png",
+        "alt": "National Film and Video Foundation logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "National Film and Video Foundation",
+      "slug": "nfvf"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c6010",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:03:02.749Z",
+    "createdOn": "2026-10-21T08:03:02.749Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b6db454f7a154c5ddb",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b6db454f7a154c5ddb_6a901334e576a29bc6a6644a_injini.png",
+        "alt": "INJINI logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "INJINI",
+      "slug": "injini"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c600e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:02:58.955Z",
+    "createdOn": "2026-10-21T08:02:58.955Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b2db454f7a154c5add",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b2db454f7a154c5add_6a901334d2036c5185dbe228_mastercard-foundation.png",
+        "alt": "Mastercard Foundation logo"
+      },
+      "link": null,
+      "category": "039296efa8c0693d6abb39766c18bb67",
+      "name": "Mastercard Foundation",
+      "slug": "mastercard-foundation"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c600c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:02:58.273Z",
+    "createdOn": "2026-10-21T08:02:58.273Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b2db454f7a154c5a5d",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b2db454f7a154c5a5d_6a8ff3f1d12cf13064e425a7_education-alliance-finland-logo.png",
+        "alt": "Education Alliance Finland logo"
+      },
+      "link": "https://educationalliancefinland.com",
+      "category": "431dc0991f1500fbbd44736c42a0c016",
+      "name": "Education Alliance Finland",
+      "slug": "education-alliance-finland"
+    }
+  },
+  {
+    "id": "6ad871bbdb454f7a154c600a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": null,
+    "lastUpdated": "2026-10-21T08:02:57.764Z",
+    "createdOn": "2026-10-21T08:02:57.764Z",
+    "isArchived": false,
+    "isDraft": true,
+    "fieldData": {
+      "logo": {
+        "fileId": "6ad871b1db454f7a154c5a14",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad871b1db454f7a154c5a14_6a8ff3b9fa2b23c464f0b678_hundred-logo.png",
+        "alt": "HundrED logo"
+      },
+      "link": "https://hundred.org",
+      "category": "431dc0991f1500fbbd44736c42a0c016",
+      "name": "HundrED",
+      "slug": "hundred"
+    }
+  }
+]

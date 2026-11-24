@@ -1,0 +1,82 @@
+{
+  "id": "6a8ed9c29d5438669dc9014d",
+  "displayName": "Blog Posts",
+  "singularName": "Blog Post",
+  "slug": "blog",
+  "createdOn": "2026-08-26T12:19:14.179Z",
+  "lastUpdated": "2026-08-26T12:19:24.410Z",
+  "fields": [
+    {
+      "id": "50aed1ee00fe59bdf9c29b78f1529c9c",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "DateTime",
+      "slug": "date",
+      "displayName": "Date",
+      "validations": {
+        "format": "date-time"
+      }
+    },
+    {
+      "id": "a5220d0da0a22a0499345403048f66af",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "author",
+      "displayName": "Author"
+    },
+    {
+      "id": "910be6e25c861636800603f20d264601",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "excerpt",
+      "displayName": "Excerpt",
+      "helpText": "Shown on the blog listing page"
+    },
+    {
+      "id": "e8118b32bc61fbd3965022b30a76e533",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "RichText",
+      "slug": "body",
+      "displayName": "Body"
+    },
+    {
+      "id": "8e76098e460187bf94919b8f869cb4f6",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "featured-image",
+      "displayName": "Featured Image"
+    },
+    {
+      "id": "f765321e068da0629c4a277b2ce70804",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "831b2e249df6b2b783175639c7cce5c8",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

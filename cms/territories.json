@@ -1,0 +1,184 @@
+[
+  {
+    "id": "6aa2dd14b77184213a5c55af",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e733896244199b6e6c6922609c0549dc",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727353",
+        "6aa2dd04f4e514a32f727355"
+      ],
+      "sort-order": 10,
+      "name": "Utah, USA",
+      "slug": "utah-usa"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55ad",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727351"
+      ],
+      "sort-order": 9,
+      "name": "East London",
+      "slug": "east-london"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55ab",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f72734f"
+      ],
+      "sort-order": 8,
+      "name": "Highveld",
+      "slug": "highveld"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55a9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f72734d"
+      ],
+      "sort-order": 7,
+      "name": "Bay",
+      "slug": "bay"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55a7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f72734b"
+      ],
+      "sort-order": 6,
+      "name": "Boland",
+      "slug": "boland"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55a5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f72734b"
+      ],
+      "sort-order": 5,
+      "name": "Table Bay",
+      "slug": "table-bay"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55a3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727349"
+      ],
+      "sort-order": 4,
+      "name": "Constantiaberg",
+      "slug": "constantiaberg"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c55a1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727345",
+        "6aa2dd04f4e514a32f727347"
+      ],
+      "sort-order": 3,
+      "name": "Pretoria East",
+      "slug": "pretoria-east"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c559f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727343"
+      ],
+      "sort-order": 2,
+      "name": "Fourways",
+      "slug": "fourways"
+    }
+  },
+  {
+    "id": "6aa2dd14b77184213a5c559d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:38:44.411Z",
+    "createdOn": "2026-09-10T16:38:44.411Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "country": "e8752769a4d9b2fb698d26567c94164a",
+      "franchisees": [
+        "6aa2dd04f4e514a32f727341"
+      ],
+      "sort-order": 1,
+      "name": "Sandton & Randburg",
+      "slug": "sandton-and-randburg"
+    }
+  }
+]

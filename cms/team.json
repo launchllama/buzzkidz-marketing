@@ -1,0 +1,860 @@
+[
+  {
+    "id": "6aa2dd74f4e514a32f729876",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.248Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c76",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c76_Thobeka-Headshot.jpeg",
+        "alt": "Thobeka Dlongo, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Musical theatre graduate from Tshwane University of Technology. Sang backing vocals for award-winning artist Solly Mahlangu; holds singing awards from two bands. Led a performing arts team in Germany for two years.",
+      "sort-order": 39,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Thobeka Dlongo",
+      "slug": "thobeka-dlongo"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729874",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.153Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad8746c1fe53e751db0abcd",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad8746c1fe53e751db0abcd_IMG_1258.jpeg",
+        "alt": "Thenjiwe Mazibuko, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "BA Honours in Dramatic Arts (Applied Drama, Theatre, and Television Studies) from Wits. Has worked as stage manager, director, editor, production assistant, actor and voice-over artist.",
+      "sort-order": 38,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Thenjiwe Mazibuko",
+      "slug": "thenjiwe-mazibuko"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729872",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.206Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad8746d1fe53e751db0ac4b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad8746d1fe53e751db0ac4b_IMG_0100-3-e1571398614787.jpeg",
+        "alt": "Themba Dlamini, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Johannesburg-based actor, director, online radio/podcast presenter and voice actor. Studying toward a BA in Theatre and Production at Wits.",
+      "sort-order": 37,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Themba Dlamini",
+      "slug": "themba-dlamini"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729870",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.766Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7768",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7768_Shannon-Headshot.jpeg",
+        "alt": "Shannon Williams, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Triple honours in drama, teaching and musical theatre from the Waterfront Theatre School. Played \"Blanchie\" in Krismis van Map Jacobs for three years; recently performed in a Doha production of \"The Three Billy Goats Gruff.\" Studying Psychology through UNISA.",
+      "sort-order": 36,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Shannon Williams",
+      "slug": "shannon-williams"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72986e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.166Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874c990d504e0eb341c66",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874c990d504e0eb341c66_Head-Shot.jpeg",
+        "alt": "Sakhe Mbuyisa, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Qualification in Professional Acting from City Varsity, Cape Town. Volunteered at the Amy Biehl Foundation; has taught English online to children in Asia.",
+      "sort-order": 35,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Sakhe Mbuyisa",
+      "slug": "sakhe-mbuyisa"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72986c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.776Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7765",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7765_Roline-Odendaal-Photo.jpeg",
+        "alt": "Roline Odendaal, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "BDrama from the University of Stellenbosch. Involved in stage productions, Eisteddfods, musical theatre and singing competitions since childhood. Based in Cape Town.",
+      "sort-order": 34,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Roline Odendaal",
+      "slug": "roline-odendaal"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72986a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.264Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c79",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c79_Headshot.png",
+        "alt": "Noxi Mabuza, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Performer, playwright and mover. Appeared in \"Marechera Sketches,\" \"The Gentlemen's Club,\" \"Igama?\" and performed at the 2018 Grahamstown National Arts Festival. Studying Theatre and Performance at Wits.",
+      "sort-order": 33,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Noxi Mabuza",
+      "slug": "noxi-mabuza"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729868",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.769Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7761",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7761_Niki-1.jpeg",
+        "alt": "Niki Landella, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Over a decade in childcare and theatre. FET in Performing Arts from the National School of the Arts. Played Sleeping Beauty in the On Cue Theatre production for a decade. Worked as an au pair in the USA and at Club Med Mauritius.",
+      "sort-order": 32,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Niki Landella",
+      "slug": "niki-landella"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729866",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.207Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c6d",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c6d_head-shot.png",
+        "alt": "Nicky Karayiannides, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Psychology student (General BA, Varsity College Sandton, started 2017), interested in childhood development.",
+      "sort-order": 31,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Nicky Karayiannides",
+      "slug": "nicky-karayiannides"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729864",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:51:40.604Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7777",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7777_Marian.jpeg",
+        "alt": "Marian Glanville, Buzz Kidz team"
+      },
+      "role-title": "Admin Team, Parent Communication",
+      "bio": "Completing a BEd (SFFET) through UNISA, focused on Educational and Trauma Psychology. Works on Buzz's admin team, handling parent communication.",
+      "sort-order": 30,
+      "category": "c25b997ec0ff3b3d4d7dd178974f9735",
+      "name": "Marian Glanville",
+      "slug": "marian-glanville"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729862",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.858Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7785",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7785_Lwazi-Headshot.jpeg",
+        "alt": "Lwazi Pinyana, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Professional contemporary and African contemporary dancer and actor. Has worked on South African musical theatre productions including Sarafina, How Long, and Footloose.",
+      "sort-order": 29,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Lwazi Pinyana",
+      "slug": "lwazi-pinyana"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729860",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.905Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7788",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7788_klair.jpeg",
+        "alt": "Klair White, Buzz Kidz team"
+      },
+      "role-title": "Social Media, Content Creation and Communications",
+      "bio": "BA in Psychology (2014) and Honours in Psychology (2016) from Wits/UNISA. Manages Social Media, Content Creation and Communications for Buzz.",
+      "sort-order": 28,
+      "category": "c25b997ec0ff3b3d4d7dd178974f9735",
+      "name": "Klair White",
+      "slug": "klair-white"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72985e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.916Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd779b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd779b_Kira-Headshot-scaled.jpeg",
+        "alt": "Kira Marie Timm, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Local theatre actress and singer, graduate of the University of the Witwatersrand.",
+      "sort-order": 27,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Kira Marie Timm",
+      "slug": "kira-marie-timm"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72985c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.165Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c70",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c70_20190711_112227.jpeg",
+        "alt": "Keamogetswe Ngobeni, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Studied at Oakfields College for Performing Arts. Co-directed and choreographed a children's production at Hatfield Christian Church Academy.",
+      "sort-order": 26,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Keamogetswe Ngobeni",
+      "slug": "keamogetswe-ngobeni"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72985a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.913Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7791",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7791_Katlego-Headshot.jpeg",
+        "alt": "Katlego Kotsane, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "In musical theatre since 2013, starting at Loreto Convent School. Former member and Head Girl of the University of Pretoria Youth Choir; has also worked in TV continuity, wardrobe and makeup.",
+      "sort-order": 25,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Katlego Kotsane",
+      "slug": "katlego-kotsane"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729858",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.907Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7797",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7797_Kashifa-Headshot-scaled.jpeg",
+        "alt": "Kashifa Sithole, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "BA Honours in Drama Art from Wits. Holds the Taubie Kushlik Award; 2018 Best Director winner at the National Arts Festival's Student Fringe. Has starred on KykNET and at The Market Theatre.",
+      "sort-order": 24,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Kashifa Sithole",
+      "slug": "kashifa-sithole"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729856",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.915Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7794",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7794_Jolene-Headshot.jpeg",
+        "alt": "Jolene Selemela, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Diploma from TUT majoring in drama. Directed and adapted The Little Red Riding Hood.",
+      "sort-order": 23,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Jolene Selemela",
+      "slug": "jolene-selemela"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729854",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.962Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd77a1",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd77a1_Buzz-headshot-Jenna-B-scaled.jpeg",
+        "alt": "Jenna Barnes, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Completing a Bachelor of Education at the University of Pretoria (English and History FET). Hosts story slams around Johannesburg and participates in a local theatre group.",
+      "sort-order": 22,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Jenna Barnes",
+      "slug": "jenna-barnes"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729852",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.221Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c73",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c73_Cebi-Headshot-BW.jpeg",
+        "alt": "Cebesile Sibisi, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Studied musical theatre at Tshwane University of Technology.",
+      "sort-order": 21,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Cebesile Sibisi",
+      "slug": "cebesile-sibisi"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729850",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.301Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad8746c1fe53e751db0abbe",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad8746c1fe53e751db0abbe_IMG_3126-2-e1544783573984.jpeg",
+        "alt": "Byron Boer, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "BA in Drama and Film from UCT. Singer and actor who has performed on stage and screen.",
+      "sort-order": 20,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Byron Boer",
+      "slug": "byron-boer"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72984e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:16:10.240Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad874ca90d504e0eb341c7c",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad874ca90d504e0eb341c7c_Head-shot-3.png",
+        "alt": "Bavani Muthan, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Actor, singer, dancer and choreographer. Studied performing arts, costume/make-up/styling, writing and production design at AFDA; BA in Motion Picture and Performing Arts from City Varsity.",
+      "sort-order": 19,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Bavani Muthan",
+      "slug": "bavani-muthan"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72984c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.978Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd77a7",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd77a7_Headshot-BathandwaM.jpeg",
+        "alt": "Bathandwa Mbobo, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "BA in Performing and Visual Arts from Wits, majoring in Performance Studies, Psychology and Applied Drama and Theatre. Working toward an Honours in Drama Therapy with Drama for Life.",
+      "sort-order": 18,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Bathandwa Mbobo",
+      "slug": "bathandwa-mbobo"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72984a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.727Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd774b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd774b_Untitled-design-19.jpeg",
+        "alt": "Donae Brazer, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Performance artist with a talent for singing. Studied Musical Theatre at Tshwane University of Technology and Oakfields College; involved in 20+ educational and children's productions, including Priscilla, Queen of the Desert and Evita.",
+      "sort-order": 17,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Donae Brazer",
+      "slug": "donae-brazer"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729848",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.767Z",
+    "createdOn": "2026-09-10T16:40:20.798Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7756",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7756_IMG_20220424_102341-scaled.jpeg",
+        "alt": "Vivienne van der Meer, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Studied musical theatre at Tshwane University of Technology and toured with the educational show \"My Children my Africa\" throughout rural South Africa. Has written, directed and choreographed plays with the Tshwane Youth Theatre.",
+      "sort-order": 16,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Vivienne van der Meer",
+      "slug": "vivienne-van-der-meer"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729846",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.766Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7750",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7750_IMG_1354-scaled.jpeg",
+        "alt": "Palesa Makhudu, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Studied at the National School of the Art. Took part in the children's educational drama \"Ziku's Earth Adventure\" for The Learn Channel; worked with mentors Sylvaine Strike and Dorothy Ann Gould at The UJ Drama Company.",
+      "sort-order": 15,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Palesa Makhudu",
+      "slug": "palesa-makhudu"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729844",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.611Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd772c",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd772c_Anoecha-pic-1-610x621-1.jpeg",
+        "alt": "Anoecha Krüger, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Actress, theatre maker and puppeteer. Graduated Stellenbosch Drama Department (2015), majoring in acting. Received Best Upcoming Artist at the 2019 KykNET Fiëstas; former member of The Loft Puppet Co. Toured nationally with arepp: Theatre for Life, specialising in educational theatre and puppetry.",
+      "sort-order": 14,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Anoecha Krüger",
+      "slug": "anoecha-kruger"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729842",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.792Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd775e",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd775e_b-fixed-1-1.png",
+        "alt": "Bianca Wepener, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Graduated from AFDA, Cape Town in 2018. Grew up in Polokwane; passionate about education and using the arts to help children grow.",
+      "sort-order": 13,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Bianca Wepener",
+      "slug": "bianca-wepener"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729840",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.710Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7726",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7726_NM.jpeg",
+        "alt": "Neo Mokoena, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Musical Theatre practitioner and Performing Arts (Cum Laude) graduate from Tshwane University of Technology. Has worked as a choreographer and dancer, and participated in theatre productions such as Nomme.",
+      "sort-order": 12,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Neo Mokoena",
+      "slug": "neo-mokoena"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72983e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.664Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7737",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7737_Tobeka-fixed-.jpeg",
+        "alt": "Thobeka Jali, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Performing arts and musical theatre graduate from Tshwane University of Technology. Has facilitated workshops from drumming to apartheid history in Germany.",
+      "sort-order": 11,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Thobeka Jali",
+      "slug": "thobeka-jali"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72983c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.658Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7732",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7732_Thabiso-Chule-PIC.jpeg",
+        "alt": "Thabiso Chule, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "From KwaZulu Natal, known to the Buzz kidz as \"Mufasa.\" Qualified actor, performer and dancer with a Musical Theatre qualification from Tshwane University of Technology.",
+      "sort-order": 10,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Thabiso Chule",
+      "slug": "thabiso-chule"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72983a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.699Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd773f",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd773f_Yolanda-Musah-PIC.jpeg",
+        "alt": "Yolanda Musah, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "From Mthatha, Eastern Cape. Holds a B-Tech from Tshwane University of Technology, majoring in acting and directing. Believes in the power of the arts for child development.",
+      "sort-order": 9,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Yolanda Musah",
+      "slug": "yolanda-musah"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729838",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.791Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7753",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7753_Reece-Malgas-PIC.png",
+        "alt": "Zahn-Reece Malgas, Buzz Kidz team"
+      },
+      "role-title": "Buzz Facilitator",
+      "bio": "Singer, dancer and actor, graduated from Tshwane University of Technology majoring in Musical Theatre. Has mastered multiple instruments and was a Top 16 contestant on Idols SA.",
+      "sort-order": 8,
+      "category": "4b72b9ced5027e102fe35aa24483eeea",
+      "name": "Zahn-Reece Malgas",
+      "slug": "zahn-reece-malgas"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729836",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.776Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd775b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd775b_BUZZ-FAM-PAGE-4.png",
+        "alt": "Anela Ngxabani, Buzz Kidz team"
+      },
+      "role-title": "Buzz Kidz Head of Teams",
+      "bio": "Tshwane University of Technology Musical Theatre B-Tech graduate; thesis focused on improving children's educational experience through musical theatre. Former drama teacher, director and writer of children's plays; also studied Jazz at Central Johannesburg College.",
+      "sort-order": 7,
+      "category": "c25b997ec0ff3b3d4d7dd178974f9735",
+      "name": "Anela Ngxabani",
+      "slug": "anela-ngxabani"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729834",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.857Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87047e06d385b43fd7770",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87047e06d385b43fd7770_BUZZ-FAM-PAGE-8.png",
+        "alt": "Thando Mdluli, Buzz Kidz team"
+      },
+      "role-title": "Buzz Kidz Head of Growth",
+      "bio": "Performing Arts and Musical Theatre Honours graduate from Tshwane University of Technology, National School of the Arts alumnus. Former producer/host of the afternoon drive time show at Tshwane FM 93.6 and TransAfrica Radio. Founder of Throne Entertainment Productions.",
+      "sort-order": 6,
+      "category": "c25b997ec0ff3b3d4d7dd178974f9735",
+      "name": "Thando Mdluli",
+      "slug": "thando-mdluli"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729832",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T08:51:40.605Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7744",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7744_WhatsApp-Image-2022-01-05-at-14.20.48.jpeg",
+        "alt": "Nolwazi Mthembu, Buzz Kidz team"
+      },
+      "role-title": "Buzz Kidz Operations Manager",
+      "bio": "Bachelor of Arts Honours in Dramatic Arts. The face of Buzz and the most likely voice on the other side of the phone when you buzz us. Handles scheduling with schools and the everyday operation of the business.",
+      "sort-order": 5,
+      "category": "c25b997ec0ff3b3d4d7dd178974f9735",
+      "name": "Nolwazi Mthembu",
+      "slug": "nolwazi-mthembu"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f729830",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.665Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd772f",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd772f_Dee-Theart-Head-Shot.jpeg",
+        "alt": "Dee Theart, Buzz Kidz team"
+      },
+      "role-title": "Director and Board Member, The Buzz Foundation",
+      "bio": "BDram graduate from the University of Stellenbosch, working across media, arts and education — radio presenting/producing, voice work, MCing, acting and writing. Joined Buzz in 2015, working through facilitating, Area Manager, and Acting Managing Director.",
+      "sort-order": 4,
+      "category": "6a15afb264102288537100f28577e372",
+      "name": "Dee Theart",
+      "slug": "dee-theart"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72982e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.634Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7729",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7729_gil.jpeg",
+        "alt": "Gilbert Pooley, Buzz Kidz team"
+      },
+      "role-title": "Director and Board Member, The Buzz Foundation",
+      "bio": "Founder and director of Umuzi and the African Coding Network, African edtech social enterprises addressing youth unemployment. Has also worked for the Boston Consulting Group in London and Johannesburg, and the Clinton Health Access Initiative.",
+      "sort-order": 3,
+      "category": "6a15afb264102288537100f28577e372",
+      "name": "Gilbert Pooley",
+      "slug": "gilbert-pooley"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72982c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.693Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd773b",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd773b_black-and-while.jpeg",
+        "alt": "Naima McLean, Buzz Kidz team"
+      },
+      "role-title": "Director and Board Member, The Buzz Foundation",
+      "bio": "Writer, poet and performing artist with a degree from UCT, completing her MBA at Henley. Former Business Coach and Senior Associate at The Awethu Project. Fellow of the African Leadership Network; currently Global Programming Director of The Room, leading global strategy for community building.",
+      "sort-order": 2,
+      "category": "6a15afb264102288537100f28577e372",
+      "name": "Naima McLean",
+      "slug": "naima-mclean"
+    }
+  },
+  {
+    "id": "6aa2dd74f4e514a32f72982a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-10-21T09:07:03.349Z",
+    "lastUpdated": "2026-10-21T07:56:55.775Z",
+    "createdOn": "2026-09-10T16:40:20.797Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "photo": {
+        "fileId": "6ad87046e06d385b43fd7747",
+        "url": "https://cdn.prod.website-files.com/6a8ed0cafd9787a0a4326e15/6ad87046e06d385b43fd7747_DSC04298-scaled.jpeg",
+        "alt": "Hanneke Mackie, Buzz Kidz team"
+      },
+      "role-title": "Founder, Owner and Managing Director",
+      "bio": "Founder and Managing Director of Buzz. A self-proclaimed \"child-whisperer\" who combined her love for children and the performing arts into Buzz. Trained as an actor at UCT (Theatre and Performance degree, 2005), worked as the Foundation Phase Drama Teacher at Crawford Preparatory Sandton, and worked for Perform, a renowned children's drama school in England, across hundreds of UK and SA primary schools. Founded The Buzz Foundation NPO in 2018. Also MD of The Buzz Foundation.",
+      "sort-order": 1,
+      "category": "ec38999604409f10913c5a4c4d69e4e1",
+      "name": "Hanneke Mackie",
+      "slug": "hanneke-mackie"
+    }
+  }
+]

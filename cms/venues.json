@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "6aa2e08b905909325c849dac",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Bryanston",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — 3-5yrs: 10:30-11:15",
+      "address": "Harrison Avenue, Bryanston, Sandton",
+      "name": "Futuresteps Preschool",
+      "slug": "futuresteps-preschool"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849daa",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Park City",
+      "type": "3f3984095844392ff92cb233fc2444dd",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "Thursdays — 15:30-16:45",
+      "address": "Parkway Drive, Park City, UT, USA",
+      "name": "Youth Sports Alliance Get Out & Play (SLC Campus)",
+      "slug": "youth-sports-alliance-get-out-and-play-slc-campus"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849da8",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Salt Lake City",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr5: 9:30-11:45; Gr4: 12:30-14:30",
+      "address": "South 2500 East, Salt Lake City, UT, USA",
+      "name": "Beacon Heights Elementary School (SLC)",
+      "slug": "beacon-heights-elementary-school-slc"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849da6",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Park City",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "Fridays — 13:00-14:00",
+      "address": "Pinebrook Road, Park City, UT, USA",
+      "name": "Park City Day School",
+      "slug": "park-city-day-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849da4",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "35 Marais St, Rustenburg",
+      "name": "Wielie Walie Daycare Centre",
+      "slug": "wielie-walie-daycare-centre"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849da2",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr0000-RR: 9:00",
+      "address": "251 Beyers Naude Dr, Rustenburg",
+      "name": "Tiny Trees Kleuterskool",
+      "slug": "tiny-trees-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849da0",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr0000-RR: 10:00",
+      "address": "204 Kock St, Rustenburg",
+      "name": "Little School House",
+      "slug": "little-school-house"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d9e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr R-7 TBC",
+      "address": "Alamein Street, Rustenburg",
+      "name": "Rustenburg Early Learning Centre",
+      "slug": "rustenburg-early-learning-centre"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d9c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Edenvale",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr7",
+      "address": "Harley Street, Modderfontein, Edenvale",
+      "name": "Generation Schools Taroko",
+      "slug": "generation-schools-taroko"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d9a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Rietondale",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Soutpansberg Road, Rietondale, Pretoria",
+      "name": "Little Einsteins Kleuterskool",
+      "slug": "little-einsteins-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d98",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Table View",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Echium Road, Table View, Cape Town",
+      "name": "Junior Junction pre school",
+      "slug": "junior-junction-pre-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d96",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Blouberg Rise",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Porterfield Road, Blouberg Rise, Cape Town",
+      "name": "Rainbowland pre school",
+      "slug": "rainbowland-pre-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d94",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Sunningdale",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "Deerhurst Drive, Sunningdale, Cape Town",
+      "name": "Rallim Pre and Primary school",
+      "slug": "rallim-pre-and-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d92",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Sunridge",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "Circle Road, Sunridge, Cape Town",
+      "name": "Rising Stars Academy",
+      "slug": "rising-stars-academy"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d90",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Melkbosstrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "M19, Melkbosstrand, Cape Town",
+      "name": "Melkbos Private School",
+      "slug": "melkbos-private-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d8e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Melkbosstrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "Charles Hoffe Ave, Van Riebeeckstrand, Cape Town",
+      "name": "Lily House School Melkbos",
+      "slug": "lily-house-school-melkbos"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d8c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Somerset West",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "Copacabana Blvd, Heritage Park, Cape Town",
+      "name": "Generation School Somerset West",
+      "slug": "generation-school-somerset-west"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d8a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Milnerton",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Preschool-Gr3",
+      "address": "165 Tryall Rd, Milnerton Rural, Cape Town",
+      "name": "Generation School Sandown",
+      "slug": "generation-school-sandown"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d88",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Protea Park",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr0000-RR: 10:00",
+      "address": "8 Kameelboome Ave, Protea Park, Rustenburg",
+      "name": "The Wendy House Pre-School",
+      "slug": "the-wendy-house-pre-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d86",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Waterval East",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "3rd Ave, Waterval East, Rustenburg",
+      "name": "Bubbly Hippos Pre-Primary",
+      "slug": "bubbly-hippos-pre-primary"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d84",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "R24, Rustenburg",
+      "name": "Silwerrand School/Skole",
+      "slug": "silwerrand-school-skole"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d82",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Rustenburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Rustenburg",
+      "name": "Kidz Love Fun",
+      "slug": "kidz-love-fun"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d80",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Cambridge",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — 9:00",
+      "address": "Hebbes St, Cambridge, East London",
+      "name": "Little Blessings",
+      "slug": "little-blessings"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d7e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Southernwood",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr R-7: 12:00",
+      "address": "4 & Saint Mark Road, Southernwood, East London",
+      "name": "Centre of Excellence Primary School",
+      "slug": "centre-of-excellence-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d7c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Belgravia",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — 0-6yrs",
+      "address": "St Patricks Rd, Belgravia, East London",
+      "name": "Brer Fox Educare Centre",
+      "slug": "brer-fox-educare-centre"
+    }
+  },
+  {
+    "id": "6aa2e08b905909325c849d7a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:53:31.276Z",
+    "createdOn": "2026-09-10T16:53:31.276Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Beacon Bay",
+      "type": "48dd1d3b5f91adba10717cc4d53ffb1f",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursday — All ages to 13yrs: 14:00-14:30",
+      "address": "Beacon Bay Crossing, Bonza Bay Road, East London",
+      "name": "East London Independent Workshop (Bounce and Burn EL)",
+      "slug": "east-london-independent-workshop-bounce-and-burn"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d44",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Parkview",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — Gr1: 13:30-14:00",
+      "address": "Lower Park Drive, Parkview, Johannesburg",
+      "name": "Jan Celliers Laerskool",
+      "slug": "jan-celliers-laerskool"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d42",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Fourways",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursday — Gr000-00: 13:00-13:30",
+      "address": "No. 36 R114, Nietgedacht, Fourways",
+      "name": "Heronbridge Pre-Prep",
+      "slug": "heronbridge-pre-prep"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d40",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Roosevelt Park",
+      "type": "3f3984095844392ff92cb233fc2444dd",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Monday — 0-18mo: 10:00-10:30; 18mo-3yrs: 10:45-11:15",
+      "address": "73 Preller Dr, Franklin Roosevelt Park, Randburg",
+      "name": "Roosevelt Park Recreation Centre",
+      "slug": "roosevelt-park-recreation-centre"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d3e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Dunkeld",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — 3-5yrs: 13:30-14:15; 5-9yrs: 14:30-15:30",
+      "address": "Eastwood Road, Dunkeld, Randburg",
+      "name": "JoyJozi",
+      "slug": "joyjozi"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d3c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Kamas",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "Fridays — 14:30-15:30",
+      "address": "E 300 S, Kamas, UT, USA",
+      "name": "South Summit Elementary",
+      "slug": "south-summit-elementary"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d3a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Kamas",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "Fridays — 13:30-14:30",
+      "address": "E 300 S, Kamas, UT, USA",
+      "name": "South Summit Middle School",
+      "slug": "south-summit-middle-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d38",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Olympus",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesday — 13:40-15:00",
+      "address": "153 Sunrise Rd, Olympus AH, Pretoria",
+      "name": "American International School of Johannesburg (Pretoria Campus)",
+      "slug": "american-international-school-of-johannesburg-pretoria-campus"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d36",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Midrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursday — PreK & K: 15:00-16:00",
+      "address": "Scorpion Trail St, Knopjeslaagte, Midrand",
+      "name": "American International School of Johannesburg",
+      "slug": "american-international-school-of-johannesburg"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d34",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Utah, USA",
+      "city-suburb": "Park City",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "884669b90f7c11b1673f575808212fa0",
+      "franchisee": null,
+      "schedule": "During school day — Kindergarten-Gr2",
+      "address": "Silver Creek Road, Park City, UT, USA",
+      "name": "Telos Classical Academy",
+      "slug": "telos-classical-academy"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d32",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Sandown",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr1-3: 13:00-13:45",
+      "address": "Cnr Sandown Rd & Discovery Dr, Cape Town",
+      "name": "Curro Sandown",
+      "slug": "curro-sandown"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d30",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Wingate Park",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mon or Thu — Gr00-7 TBC",
+      "address": "Halse Street, Wingate Park, Pretoria",
+      "name": "Pretoria Chinese School",
+      "slug": "pretoria-chinese-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d2e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Fourways",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — 3-5yrs: 9:00-9:30",
+      "address": "35 Albatross Drive, Fourways",
+      "name": "Dibber International Fourways",
+      "slug": "dibber-international-fourways"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d2c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Chartwell",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wed & Thu — Gr R-3: 13:00-13:45",
+      "address": "Cnr Cedar Rd & Romney Ave, Chartwell AH",
+      "name": "Eden Chartwell",
+      "slug": "eden-chartwell"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d2a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Monday — 2-3yrs: 10:30-11:00; Gr000&00: 11:00-11:30",
+      "address": "1 Third Ave, Hoog-en-Droog, Paarl",
+      "name": "Divine Kids Pre-school",
+      "slug": "divine-kids-pre-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d28",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — Gr000&00: 8:45-9:15",
+      "address": "545 Main Road, Northern Paarl",
+      "name": "Noord Eind Primary School - Akker Jakkers pre-school",
+      "slug": "noord-eind-primary-akker-jakkers"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d26",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Monday — Gr1-3: 14:30-15:15",
+      "address": "3 Faure Street, Esterville, Paarl",
+      "name": "La Rochelle Primary School",
+      "slug": "la-rochelle-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d24",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Durbanville",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mon & Thu — Gr000/00 Mon 8:30-9:00; Gr R Thu 13:00-13:45",
+      "address": "Cnr Weyers & Church St, Durbanville, Cape Town",
+      "name": "Durbieland Nursery School",
+      "slug": "durbieland-nursery-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d22",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Parklands North",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesday — Ages 2-5: 8:00-9:30",
+      "address": "62 Newington Street, Parklands North, Cape Town",
+      "name": "Bright Horizons Early Learning Center",
+      "slug": "bright-horizons-early-learning-center"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d20",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Parklands",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Gr R-3",
+      "address": "Parklands Main Rd & Dorchester Dr, Parklands, Cape Town",
+      "name": "CBC St John's",
+      "slug": "cbc-st-johns"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d1e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Vincent",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Preschool: 10:00-10:30",
+      "address": "45 Vincent Road, Vincent, East London",
+      "name": "Kidspot Preschool",
+      "slug": "kidspot-preschool"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d1c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "JHB North",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — 3-5yrs: 9:00-9:30",
+      "address": "226 Pritchard Street, JHB North",
+      "name": "Magic Beings Nursery School",
+      "slug": "magic-beings-nursery-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d1a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Gqeberha",
+      "city-suburb": "Walmer",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "83 Albert Rd, Walmer, Gqeberha",
+      "name": "Harvest Christian Primary School",
+      "slug": "harvest-christian-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d18",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Cambridge West",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — 0-5yrs",
+      "address": "1 Griffin Rd, Cambridge West, East London",
+      "name": "Care and Share Educare",
+      "slug": "care-and-share-educare"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d16",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Vincent",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "8 Tindale Rd, Vincent, East London",
+      "name": "Pooh's Corner Pre-School",
+      "slug": "poohs-corner-pre-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d14",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Beacon Bay",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "2 Bonza Bay Rd, Beacon Bay North, East London",
+      "name": "Care Bears",
+      "slug": "care-bears"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d12",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — Gr RR & R",
+      "address": "Cnr Willem Botha & Tortelduif Cres, Wierdapark, Centurion",
+      "name": "West View College",
+      "slug": "west-view-college"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d10",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "12 Cecilia St, Green Pastures, Paarl",
+      "name": "Clift College Middle School",
+      "slug": "clift-college-middle-school"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d0e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Paulshof",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mon & Thu — Gr0/1 Mon; Gr2 Thu",
+      "address": "Witkoppen Road, Paulshof, Sandton",
+      "name": "St Peter's Girls Junior Prep",
+      "slug": "st-peters-girls-junior-prep"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d0c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Lone Hill",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — 12-36mo: 9:00-9:20; 3-6yrs: 9:30-10:00",
+      "address": "Capricorn Road, Lone Hill, Sandton",
+      "name": "City Kids Christian Preschool",
+      "slug": "city-kids-christian-preschool"
+    }
+  },
+  {
+    "id": "6aa2e067b77184213a5e1d0a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:55.053Z",
+    "createdOn": "2026-09-10T16:52:55.053Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — 3-5yrs: 9:30-10:00",
+      "address": "Dieppe, Courtrai, Paarl",
+      "name": "Kinder Ark Courtrai",
+      "slug": "kinder-ark-courtrai"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d989",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Paarl",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr00000&0000: 11:00-11:30; Gr000&00: 11:30-12:00",
+      "address": "Val De Vie Winelands Lifestyle Estate",
+      "name": "Kinder Ark @ Val de Vie",
+      "slug": "kinder-ark-val-de-vie"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d987",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Robindale",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Gr RRR & RR",
+      "address": "Robindale, Randburg",
+      "name": "Robindale Louwtjies Pre-Primary",
+      "slug": "robindale-louwtjies-pre-primary"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d985",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Burgundy Estate",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Cnr Burgundy & Carmine Dr, Burgundy Estate, Cape Town",
+      "name": "Curro Burgundy (Castle)",
+      "slug": "curro-burgundy-castle"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d983",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Abbotsford",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Abbotsford, East London",
+      "name": "Abbortsford Christian School",
+      "slug": "abbortsford-christian-school"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d981",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Beaconhurst",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC — Gr R-9",
+      "address": "East Bend Road, Beaconhurst, East London",
+      "name": "The Beacon Tutor Centre",
+      "slug": "the-beacon-tutor-centre"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d97f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Selborne",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Osborne Road, Selborne, East London",
+      "name": "Harmony Education Centre",
+      "slug": "harmony-education-centre"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d97d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Vincent",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Devereux Avenue, Vincent, East London",
+      "name": "Lesson Lab",
+      "slug": "lesson-lab"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d97b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "East London",
+      "city-suburb": "Southernwood",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Wynne Street, Southernwood, East London",
+      "name": "Eastridge Primary School",
+      "slug": "eastridge-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d979",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Bergvliet",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursday — Gr R: 12:50-13:20",
+      "address": "Dreyersdal Road, Bergvliet, Cape Town",
+      "name": "Sweet Valley Primary",
+      "slug": "sweet-valley-primary"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d977",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "North Riding",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Group4&5: 11:00-11:30",
+      "address": "358 Valley Road, North Riding AH, Randburg",
+      "name": "Northriding College and Pre-Primary",
+      "slug": "northriding-college-and-pre-primary"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d975",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Sharonlea",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursday — 3-5yrs: 10:00-10:30",
+      "address": "Ebbehout Street, Sharonlea, Randburg",
+      "name": "Sharonlea Childcare and Pre Primary",
+      "slug": "sharonlea-childcare-and-pre-primary"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d973",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Midrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — Gr000-0: 13:00-13:45",
+      "address": "11 Candican Rd, Barbeque Downs, Midrand",
+      "name": "Pinnacle College Waterfall",
+      "slug": "pinnacle-college-waterfall"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d971",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.840Z",
+    "createdOn": "2026-09-10T16:52:11.840Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Northriding",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tue & Wed — Gr0-3 Tue; Gr4-7 Wed, both 14:00-14:30",
+      "address": "57 Hyperion Drive, Northriding, Johannesburg",
+      "name": "Vuleka St Mark's Northriding",
+      "slug": "vuleka-st-marks-northriding"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d96f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr R-3: 13:30-14:00; Gr4-7: 14:00-14:30",
+      "address": "4 Buhrman Street, Secunda, Mpumalanga",
+      "name": "Edu Detto",
+      "slug": "edu-detto"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d96d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Chartwell",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Group3-6s: 11:30-12:00",
+      "address": "3rd Street, Chartwell",
+      "name": "Chartwell House Montessori Eco School",
+      "slug": "chartwell-house-montessori-eco-school"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d96b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Kenilworth",
+      "type": "3f3984095844392ff92cb233fc2444dd",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Saturdays — 3-5yrs: 9:30-10:15; 5-9yrs: 10:30-11:30",
+      "address": "114 3rd Ave, Kenilworth, Cape Town",
+      "name": "St James Church",
+      "slug": "st-james-church"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d969",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Bergvliet",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Stage3&4: 12:30-13:00",
+      "address": "2 Wesley Ave, Bergvliet, Cape Town",
+      "name": "Jacobs Ladder",
+      "slug": "jacobs-ladder"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d967",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Witkoppen",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Group3-6s: 11:30-12:00",
+      "address": "Ex3, Trust Avenue, Witkoppen, Johannesburg",
+      "name": "Singing Forest Montessori Eco School",
+      "slug": "singing-forest-montessori-eco-school"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d965",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Middelburg",
+      "city-suburb": "Aerorand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Soutpansberg Street, Aerorand, Middelburg",
+      "name": "Hompie Kedompie Kleuterskool",
+      "slug": "hompie-kedompie-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d963",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Middelburg",
+      "city-suburb": "Middelburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "17 Delwery Street, Middelburg",
+      "name": "Rooimiertjie Land Kleuterskool",
+      "slug": "rooimiertjie-land-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d961",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Middelburg",
+      "city-suburb": "Golfsig",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Cowen Ntuli Street, Golfsig, Middelburg",
+      "name": "Lofkleuters Kleuterskool",
+      "slug": "lofkleuters-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d95f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Middelburg",
+      "city-suburb": "Aerorand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "10 Golden Gate St, Aerorand, Middelburg",
+      "name": "Little Leaders Kleuterskool",
+      "slug": "little-leaders-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d95d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Secunda",
+      "name": "Zoomies Akademie Kleuterskool",
+      "slug": "zoomies-akademie-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d95b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "2 Tarka St, Secunda",
+      "name": "Kleuterzone",
+      "slug": "kleuterzone"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d959",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "10 Pieter Wenning St, Secunda",
+      "name": "Laaties en Ladies Kleuterskool",
+      "slug": "laaties-en-ladies-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d957",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Middelburg",
+      "city-suburb": "Middelburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "Komati Street, Middelburg",
+      "name": "Een Treetjie Voor Kleuterskool",
+      "slug": "een-treetjie-voor-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d955",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Bryanston",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Hobart Road, Bryanston, Sandton",
+      "name": "Crawford International Bryanston",
+      "slug": "crawford-international-bryanston"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d953",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Erasmus Avenue, Raslouw, Centurion",
+      "name": "The Way Christian School",
+      "slug": "the-way-christian-school"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d951",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Craighall Park",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr000-0: 12:50-13:20; Gr1-3: 14:00-14:30",
+      "address": "Rutland Avenue, Craighall Park, Sandton",
+      "name": "St Teresa's School - Junior Primary",
+      "slug": "st-teresas-school-junior-primary"
+    }
+  },
+  {
+    "id": "6aa2e03b302f79ded6e0d94f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:52:11.839Z",
+    "createdOn": "2026-09-10T16:52:11.839Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Bryanston",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr R&1: 13:15-13:45; Gr2&3: 14:00-14:30",
+      "address": "Sloane Street, Bryanston, Sandton",
+      "name": "Brescia House School",
+      "slug": "brescia-house-school"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257befb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Linden",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr R: 12:15-12:55; Gr1-3: 13:30-14:10",
+      "address": "11th Street, Linden, Randburg",
+      "name": "Pinnacle College Linden",
+      "slug": "pinnacle-college-linden"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bef9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Bedfordview",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Stage3-5: 12:45-13:30",
+      "address": "Smith Road, Bedfordview, Germiston",
+      "name": "Reddam House Bedfordview",
+      "slug": "reddam-house-bedfordview"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bef7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Constantia",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Stage3&4: 12:30-13:00; Stage5: 13:00-13:30",
+      "address": "Reddam Avenue, Constantia, Cape Town",
+      "name": "Reddam House Constantia",
+      "slug": "reddam-house-constantia"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bef5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Glenferness",
+      "type": "48dd1d3b5f91adba10717cc4d53ffb1f",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Saturdays — 3-5yrs: 13:00-13:45; 5-9yrs: 14:00-15:00",
+      "address": "The Dance Academy SA, 10 MacMillan Rd, Glenferness AH",
+      "name": "Prison Break Market Independent Workshop",
+      "slug": "prison-break-market-independent-workshop"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bef3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Fontainebleau",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "65 Republic Rd, Fontainebleau, Randburg",
+      "name": "SPARK Cresta",
+      "slug": "spark-cresta"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bef1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr000&00: 8:30-9:00; Gr0: 9:00-9:30",
+      "address": "1 Pudding Stone St & Silky Thorn St, Centurion",
+      "name": "Trinityhouse Centurion",
+      "slug": "trinityhouse-centurion"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257beef",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Waterkloof",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr RRR/RR/R: 10:30-12:00",
+      "address": "317 Milner St, Waterkloof, Pretoria",
+      "name": "Waterkloof Pre-Primary",
+      "slug": "waterkloof-pre-primary"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257beed",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Linksfield",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Seniors & Gr R: 13:00-13:30",
+      "address": "Club Street, Linksfield, Johannesburg",
+      "name": "King David Linksfield Pre-Primary School",
+      "slug": "king-david-linksfield-pre-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257beeb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr0000&000: 10:30-11:00; Gr00: 11:00-11:30",
+      "address": "12 Outeniqua St, Secunda",
+      "name": "Dr Seuss Daycare",
+      "slug": "dr-seuss-daycare"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bee9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Shere",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "Cnr Lynnwood Dr & Dudley St, Shere, Pretoria",
+      "name": "SPARK Silverlakes",
+      "slug": "spark-silverlakes"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bee7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Ormonde",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr000-0: 14:00-14:30; Gr1-3: 14:45-15:15",
+      "address": "Dorado Avenue, Ormonde, Johannesburg",
+      "name": "Nova Pioneer Ormonde",
+      "slug": "nova-pioneer-ormonde"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bee5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Fleurhof",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr000-0: 12:30-13:00; Gr1-3: 13:00-13:30",
+      "address": "Halite Rd/Hyacinth Rd, Fleurhof, Randburg",
+      "name": "Future Nations School Fleurhof",
+      "slug": "future-nations-school-fleurhof"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bee3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Roosevelt Park",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — 12:45-13:15",
+      "address": "29 Amschewitz Street, Franklin Roosevelt Park",
+      "name": "Roosevelt Park Pre-Primary School",
+      "slug": "roosevelt-park-pre-primary-school"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bee1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "48dd1d3b5f91adba10717cc4d53ffb1f",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — 16:00-17:00",
+      "address": "10A Henderson street, Secunda",
+      "name": "Secunda Buzz Academy Independent Workshop (9-13yrs)",
+      "slug": "secunda-buzz-academy-independent-workshop-9-13yrs"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bedf",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "48dd1d3b5f91adba10717cc4d53ffb1f",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — 16:00-17:00",
+      "address": "10A Henderson street, Secunda",
+      "name": "Secunda Buzz Independent Workshop (5-9yrs)",
+      "slug": "secunda-buzz-independent-workshop-5-9yrs"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bedd",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "48dd1d3b5f91adba10717cc4d53ffb1f",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — 8:30-9:15",
+      "address": "10A Henderson street, Secunda",
+      "name": "Secunda Buzz Bubbas Independent Workshop (0-18mo)",
+      "slug": "secunda-buzz-bubbas-independent-workshop"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bedb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Nelson Mandela Drive, Secunda",
+      "name": "Marietjie Skool",
+      "slug": "marietjie-skool"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bed9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.005Z",
+    "createdOn": "2026-09-10T16:51:30.005Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr000-00: 9:00-9:30; Gr R: 9:40-10:10",
+      "address": "C/O Sheba & Vaalrivier St, Secunda",
+      "name": "Laerskool Kruinpark",
+      "slug": "laerskool-kruinpark"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bed7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr000-00: 9:00-10:10",
+      "address": "Nelson Mandela Drive, Secunda",
+      "name": "Japsnoet Kleuterskool",
+      "slug": "japsnoet-kleuterskool"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bed5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr0000-000: 9:00-9:30; Gr00: 9:30-10:00",
+      "address": "10 Lindley Street, Secunda",
+      "name": "Kaalvoet Kleuters",
+      "slug": "kaalvoet-kleuters"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bed3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Bethal",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr000-0: 13:30-14:00; Gr R-3: 14:10-14:55; Gr4-7: 15:00-16:00",
+      "address": "Kleijnhans Street, Bethal",
+      "name": "Laerskool HM Swart",
+      "slug": "laerskool-hm-swart"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bed1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr000-00: 11:00-11:30; Gr R: 11:30-12:00",
+      "address": "Stanford Street, Secunda",
+      "name": "Laerskool Goedehoop",
+      "slug": "laerskool-goedehoop"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257becf",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mon & Tue — Gr1 Mon 13:30-14:00; Gr000-R Tue 9:00-10:10",
+      "address": "Rissik Street, Secunda",
+      "name": "Laerskool Secunda",
+      "slug": "laerskool-secunda"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257becd",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Secunda",
+      "city-suburb": "Secunda",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wed & Thu — multiple age slots 14:15-17:00",
+      "address": "Theatre Room, Curro Castle Secunda, Coen Brits St",
+      "name": "Curro Secunda",
+      "slug": "curro-secunda"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257becb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Hazeldean",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Groups4&5: 12:30-13:00; Gr R: 13:05-13:35",
+      "address": "1 Silverlakes Rd Drive, Hazeldean",
+      "name": "Curro Hazeldean",
+      "slug": "curro-hazeldean"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bec9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Houghton",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr000&00: 11:00-11:30",
+      "address": "1 St David Rd, Houghton, Johannesburg",
+      "name": "St. John's The Bridge Nursery School",
+      "slug": "st-johns-the-bridge-nursery-school"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bec7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Midrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "13 Hofmeyer Rd, President Park AH, Midrand",
+      "name": "Flutterbys Special Education and Therapy Centre",
+      "slug": "flutterbys-special-education-and-therapy-centre"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bec5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Coronationville",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr000-0: 13:05-13:35; Gr1&2: 13:40-14:10; Gr3-7: 14:15-14:45",
+      "address": "Riversdale St, Coronationville, Johannesburg",
+      "name": "St Theresa's Convent School",
+      "slug": "st-theresas-convent-school"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bec3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Krugersdorp",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "1499 Lipton St, Mindalore, Krugersdorp",
+      "name": "SPARK Witpoortjie",
+      "slug": "spark-witpoortjie"
+    }
+  },
+  {
+    "id": "6aa2e0128507eb50e257bec1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:51:30.004Z",
+    "createdOn": "2026-09-10T16:51:30.004Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Weltevredenpark",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr R-3: 13:15-13:45",
+      "address": "Cnr Albert St & Cornelius St, Weltevredenpark",
+      "name": "SPARK Weltevreden Park",
+      "slug": "spark-weltevreden-park"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5b1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Bramley",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "41 High Rd, Bramley, Johannesburg",
+      "name": "SPARK Bramley",
+      "slug": "spark-bramley"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5af",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Parktown",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr R: 13:00-13:30; Gr1: 13:30-14:40",
+      "address": "Princess of Wales Terrace, Parktown, Johannesburg",
+      "name": "Roedean",
+      "slug": "roedean"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5ad",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Glenvista",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr0: 10:00-10:30; Gr000: 10:30-11:00; Gr00: 11:00-11:30",
+      "address": "Cnr Bellairs Dr & Hantamberg St, Glenvista",
+      "name": "Trinityhouse Glenvista",
+      "slug": "trinityhouse-glenvista"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5ab",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Rivonia",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "Edenburg Terraces, Rivonia Blvd, Sandton",
+      "name": "SPARK Rivonia",
+      "slug": "spark-rivonia"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5a9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Midrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "Rose Road, Knopjeslaagte, Midrand",
+      "name": "SPARK Riversands",
+      "slug": "spark-riversands"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5a7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Midrand",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Cnr Waterfall & Simlak Dr Gate 1, Midrand",
+      "name": "Curro Waterfall",
+      "slug": "curro-waterfall"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5a5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Sundowner",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Taurus Rd, Sundowner, Randburg",
+      "name": "Curro Aurora",
+      "slug": "curro-aurora"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5a3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Honeydew Ridge",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr1-3: 13:30-14:10; Gr000-0: 14:30-15:00",
+      "address": "527 Zeiss Rd, Honeydew Ridge, Roodepoort",
+      "name": "Skye College",
+      "slug": "skye-college"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b5a1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Lethabong",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "TBC",
+      "address": "39 Pinelands Road, Founders Hill, Lethabong",
+      "name": "Founders Hill Pinnacle College (Intermediate Phase)",
+      "slug": "founders-hill-pinnacle-college-intermediate-phase"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b59f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Kameeldrift",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Kameelfontein Rd, Kameeldrift, Pretoria",
+      "name": "Curro Castle Roodeplaat",
+      "slug": "curro-castle-roodeplaat"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b59d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Rustenburg",
+      "city-suburb": "Lethabong",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Founders Hill, Lethabong",
+      "name": "Founders Hill Pinnacle College (Foundation Phase)",
+      "slug": "founders-hill-pinnacle-college-foundation-phase"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b59b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Montgomery Park",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "15 Beyers Naude Drive, Montgomery Park, Randburg",
+      "name": "Jacaranda Montessori",
+      "slug": "jacaranda-montessori"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b599",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Cherrywood Gardens",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "During school day — All kidz",
+      "address": "Bizweni Campus, 40 Bizweni Ave, Cherrywood Gardens, Cape Town",
+      "name": "Bizweni Primary School",
+      "slug": "bizweni-primary-school"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b597",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Century City",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Group4&5: 12:00-12:30; Gr R: 13:45-14:15",
+      "address": "Socrates Way, Century City, Cape Town",
+      "name": "Curro Century City",
+      "slug": "curro-century-city"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b595",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Eastwood",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr000/00/0: 12:30-13:15; Gr1-3: 13:30-14:30",
+      "address": "George Avenue, Eastwood, Pretoria",
+      "name": "Lycée Jules Verne Pretoria",
+      "slug": "lycee-jules-verne-pretoria"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b593",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Parktown",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr R&1: 13:10-13:40; Gr2&3: 13:45-14:15",
+      "address": "Sans Souci Rd, Parktown, Johannesburg",
+      "name": "McAuley House School",
+      "slug": "mcauley-house-school"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b591",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Rivonia",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr R,1&2: 13:45-14:15",
+      "address": "43 Homestead Rd, Rivonia, Johannesburg",
+      "name": "Curro Rivonia",
+      "slug": "curro-rivonia"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b58f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tue & Fri — Groups 4/5 & Gr R Fridays; Gr1-3 Tue 13:45-14:15",
+      "address": "Rua Vista, Centurion",
+      "name": "Curro Thatchfield",
+      "slug": "curro-thatchfield"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b58d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Melrose",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr000&00: 12:30-13:00; Gr0: 13:15-13:45",
+      "address": "132 Oxford Road, Melrose",
+      "name": "Kingsmead College",
+      "slug": "kingsmead-college"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b58b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Roodepoort",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Thursdays — Gr000/00/0: 14:00-14:30; Gr1-3: 14:45-15:15",
+      "address": "Jackal Creek Golf Estate, Boundary Rd, Roodepoort",
+      "name": "Nova Pioneer North Riding",
+      "slug": "nova-pioneer-north-riding"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b589",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Paulshof",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Mondays — Gr000/00/0: 13:45-14:15; Gr1-3: 14:30-15:00",
+      "address": "Cnr Amanzimtoti & Stone Haven Rd, Paulshof, Sandton",
+      "name": "Nova Pioneer Paulshof",
+      "slug": "nova-pioneer-paulshof"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b587",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Cape Town",
+      "city-suburb": "Blue Downs",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "Old Faure Rd, Blue Downs, Cape Town, 7100",
+      "name": "SPARK Blue Downs",
+      "slug": "spark-blue-downs"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b585",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Randburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr000/00/0: 13:00-13:30; Gr1-3: 14:00-14:30",
+      "address": "Milner Road, Kensington B, Randburg",
+      "name": "Knights Preparatory School",
+      "slug": "knights-preparatory-school"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b583",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Sandton",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr000/00/0: 14:30-15:15; Gr1-3: 15:30-16:30",
+      "address": "Cnr Bauhinia St & Cestrum Ave, Boite, Sandton",
+      "name": "Lycée Jules Verne Johannesburg",
+      "slug": "lycee-jules-verne-johannesburg"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b581",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Little Falls",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Fridays — Gr000: 10:30-11:00; Gr00: 11:00-11:30; Gr0: 11:30-12:00",
+      "address": "Next to Falls Creek, Falls Road, Johannesburg",
+      "name": "Trinityhouse Little Falls",
+      "slug": "trinityhouse-little-falls"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b57f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Friday — Gr000&00: 10:30-11:00; Gr0: 11:15-11:45",
+      "address": "1 Heritage Hill Boulevard, off Nelmapius Drive, Centurion",
+      "name": "Trinityhouse Heritage Hill",
+      "slug": "trinityhouse-heritage-hill"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b57d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Randburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45; Gr4-7: 15:20-15:50",
+      "address": "1 Sysie Road, Randburg, Johannesburg",
+      "name": "SPARK Randpark Ridge",
+      "slug": "spark-randpark-ridge"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b57b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Randburg",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tuesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45",
+      "address": "8 Hunter Street, Randburg, Johannesburg",
+      "name": "SPARK Ferndale",
+      "slug": "spark-ferndale"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b579",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Pretoria",
+      "city-suburb": "Centurion",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Wednesdays — Gr R&1: 14:30-15:00; Gr2&3: 15:15-15:45; Gr4-7: 15:45-16:15",
+      "address": "Witpensstekelstert Street, Centurion, Pretoria",
+      "name": "SPARK Centurion",
+      "slug": "spark-centurion"
+    }
+  },
+  {
+    "id": "6aa2dfea302f79ded6e0b577",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:50:50.556Z",
+    "createdOn": "2026-09-10T16:50:50.556Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "region": "Johannesburg",
+      "city-suburb": "Randpark Ridge",
+      "type": "333ca233fb9ed9a9fbc4cae3a41524ee",
+      "country": "ed8dfd66a914b071e6ed0e9a1405a3aa",
+      "franchisee": null,
+      "schedule": "Tue & Wed — Gr00: Tue 10:45-11:45; Gr0: Wed 10:30-12:30",
+      "address": "23 Knoppiesdoring Street, Randpark Ridge",
+      "name": "Trinityhouse Randpark Ridge",
+      "slug": "trinityhouse-randpark-ridge"
+    }
+  }
+]

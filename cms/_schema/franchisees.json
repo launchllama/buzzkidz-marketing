@@ -1,0 +1,74 @@
+{
+  "id": "6a8ed0cc7c0b44bdc16dd99d",
+  "displayName": "Franchisees",
+  "singularName": "Franchisee",
+  "slug": "franchisees",
+  "createdOn": "2026-08-26T11:41:00.014Z",
+  "lastUpdated": "2026-08-26T12:19:34.907Z",
+  "fields": [
+    {
+      "id": "b4f5d24320c05b94359e30fcd45c6c1e",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "photo",
+      "displayName": "Photo"
+    },
+    {
+      "id": "e654f35af5d46637a714535f55d07bea",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "bio",
+      "displayName": "Bio"
+    },
+    {
+      "id": "738a48b6c74ef491e60343504b8d98a2",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Option",
+      "slug": "country",
+      "displayName": "Country",
+      "validations": {
+        "options": [
+          {
+            "name": "South Africa",
+            "id": "e2e3f6b48c7617151eb0ffe103a8c518"
+          },
+          {
+            "name": "USA",
+            "id": "68e2867447ba792af97cd625505837f6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aec112990c1ea813198e8d2ac90478df",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "352a25003a17e86edf0daf2cc2d35930",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

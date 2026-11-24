@@ -1,0 +1,80 @@
+{
+  "id": "6a8ed0ce46a3110da4fdfb48",
+  "displayName": "Adventure Themes",
+  "singularName": "Adventure Theme",
+  "slug": "adventure-themes",
+  "createdOn": "2026-08-26T11:41:02.354Z",
+  "lastUpdated": "2026-08-26T12:19:35.125Z",
+  "fields": [
+    {
+      "id": "ee80d1c35a15cafda9374b320d5afe53",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "poster",
+      "displayName": "Poster"
+    },
+    {
+      "id": "1d4c335d4940a7b0e31f8336568e1bde",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "RichText",
+      "slug": "synopsis",
+      "displayName": "Synopsis"
+    },
+    {
+      "id": "756056c75595c11c7fe5d0f53b38544d",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "original-tracks",
+      "displayName": "Original Tracks",
+      "helpText": "Comma list, e.g. \"Big Five Jive, Ella the Elephant, Mama Africa\""
+    },
+    {
+      "id": "a2ed76b322254c831de0fc96c7039cca",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Switch",
+      "slug": "available-as-party-theme",
+      "displayName": "Available As Party Theme"
+    },
+    {
+      "id": "b88f57654cdb6602b6d7cf2e46e7b8f8",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "party-synopsis",
+      "displayName": "Party Synopsis",
+      "helpText": "Only for themes also offered as a party (see Available As Party Theme) — wording differs from the curriculum Synopsis"
+    },
+    {
+      "id": "7f3dfccd8370f2113b903d13e700efee",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "df43c808799c9cc5a87ddaca62617598",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

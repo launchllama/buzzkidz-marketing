@@ -1,0 +1,71 @@
+{
+  "id": "6aa2dcda25ceac00ddd6d56c",
+  "displayName": "Podcast Episodes",
+  "singularName": "Podcast Episode",
+  "slug": "podcast-episodes",
+  "createdOn": "2026-09-10T16:37:46.998Z",
+  "lastUpdated": "2026-09-10T16:37:53.674Z",
+  "fields": [
+    {
+      "id": "9a194d22bfe211065a77c165132db233",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Number",
+      "slug": "episode-number",
+      "displayName": "Episode Number",
+      "validations": {
+        "format": "integer",
+        "allowNegative": true,
+        "precision": 1
+      }
+    },
+    {
+      "id": "bd7b287c39f362140a5a84303507a51e",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "synopsis",
+      "displayName": "Synopsis"
+    },
+    {
+      "id": "bbde33d4e0f8ef00fadb79a362913bd4",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Reference",
+      "slug": "theme",
+      "displayName": "Theme",
+      "helpText": "Which Adventure Theme season this episode belongs to",
+      "validations": {
+        "collectionId": "6a8ed0ce46a3110da4fdfb48"
+      }
+    },
+    {
+      "id": "4a9a5ad4d5bf930a7295beb69182ec11",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "21d236d5308ceac61b78e5d251533dd6",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

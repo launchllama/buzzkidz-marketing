@@ -1,0 +1,75 @@
+{
+  "id": "6aa2ddb33568af1488b75886",
+  "displayName": "Party Themes",
+  "singularName": "Party Theme",
+  "slug": "party-themes",
+  "createdOn": "2026-09-10T16:41:23.151Z",
+  "lastUpdated": "2026-09-10T16:41:30.142Z",
+  "fields": [
+    {
+      "id": "ea78cbf8fcf824a8686e76e9f15a9683",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "synopsis",
+      "displayName": "Synopsis"
+    },
+    {
+      "id": "f22922f40fc0e4bb9de3a605d894a664",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Switch",
+      "slug": "uses-licensed-ip",
+      "displayName": "Uses Licensed IP",
+      "helpText": "Flagged for legal/trademark review before launch — name may need to change"
+    },
+    {
+      "id": "29c1db1c4bdd19d9816ad3ff764b04c5",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "poster",
+      "displayName": "Poster"
+    },
+    {
+      "id": "c9372c03e50721757a8cfc488408b619",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Reference",
+      "slug": "adventure-theme",
+      "displayName": "Adventure Theme",
+      "helpText": "Linked curriculum theme, where this party theme is also one of the 8 Adventure Themes",
+      "validations": {
+        "collectionId": "6a8ed0ce46a3110da4fdfb48"
+      }
+    },
+    {
+      "id": "8ca0275bb4233da74a3604e90d6c8ae7",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "985c9a0848132ceebf7c89627eb298bf",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ],
+  "fieldGroups": []
+}

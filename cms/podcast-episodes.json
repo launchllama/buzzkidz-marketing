@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "6aa2e0feaf874e4f95ca59db",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 20,
+      "synopsis": "The team finally cooks the most amazing meal for Phileas Fogg in Chef Soufflé's kitchen, with flavours from all around the world.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "A wonderful Meal!",
+      "slug": "around-the-world-ep20-a-wonderful-meal"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59d9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 19,
+      "synopsis": "The team makes their final trip home to South Africa and shows Chef Soufflé all the amazing ingredients they collected.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Chef Soufflé",
+      "slug": "around-the-world-ep19-chef-souffle"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59d7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 18,
+      "synopsis": "Having outrun a dragon and collected all the ingredients they needed, the team heads home to cook.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "The Journey Back",
+      "slug": "around-the-world-ep18-the-journey-back"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59d5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "At the beautiful Taj Mahal, it looks like a scary dragon named Naga has stolen all the spices.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "The Taj Mahal",
+      "slug": "around-the-world-ep17-the-taj-mahal"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59d3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "The team arrives in bustling, busy India and makes it to the famous Taj Mahal.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "India",
+      "slug": "around-the-world-ep16-india"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59d1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "The team is loving their journey around the world and heads to India to get spices.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Up, Up and Away!",
+      "slug": "around-the-world-ep15-up-up-and-away"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59cf",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "The team heads to Switzerland for chocolate, finding themselves at a chocolate factory meeting Klaus.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Chocolate - YUM!",
+      "slug": "around-the-world-ep14-chocolate-yum"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59cd",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 13,
+      "synopsis": "The team finds the keys to the Buzz Mobile and heads off to Mexico.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Mexico!",
+      "slug": "around-the-world-ep13-mexico"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59cb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 12,
+      "synopsis": "The team rushes back to the Buzz Mobile and figures out the next country to visit is Mexico, but the keys are missing.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Beans!",
+      "slug": "around-the-world-ep12-beans"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59c9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 11,
+      "synopsis": "In Japan, the team asks Simon the Sumo wrestler for Sushi, and he tells them a long story before giving it to them.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Sushi!",
+      "slug": "around-the-world-ep11-sushi"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59c7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team travels to Japan for Sushi and meets a real Sumo wrestler named Simon.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Sumo!",
+      "slug": "around-the-world-ep10-sumo"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59c5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "The team travels around Australia looking for a lovely lamb chop, asking Koalas and Kangaroos along the way.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Kangeroos, Koalas and Crocodiles",
+      "slug": "around-the-world-ep9-kangeroos-koalas-and-crocodiles"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59c3",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "The team convinces Dina to join them, and the recipe calls for a lamb chop from Oz — but what is Oz?",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Oz!",
+      "slug": "around-the-world-ep8-oz"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59c1",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "The team meets Dina the Diva, a fabulous macaw, who takes them to the Amazon Jungle to look for Brazil nuts.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Into the Amazon",
+      "slug": "around-the-world-ep7-into-the-amazon"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59bf",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "The team finds themselves at the Rio Carnival in Brazil, full of music, dancing, costumes and fun.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Carnival Time!",
+      "slug": "around-the-world-ep6-carnival-time"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59bd",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "The team finds Ravi in a giant bowl of dough in a French bakery, then heads to Brazil for Brazil nuts.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "To Brazil!",
+      "slug": "around-the-world-ep5-to-brazil"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59bb",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "The team flies off in the Buzz Mobile, zipping over countries and clouds, with their first stop being Paris.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Ooh La La in Paris",
+      "slug": "around-the-world-ep4-ooh-la-la-in-paris"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59b9",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "The team discovers the amazing Buzz Mobile, a rocket meets helicopter meets airplane that can zoom anywhere.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "The Buzz Mobile",
+      "slug": "around-the-world-ep3-the-buzz-mobile"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59b7",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "The team finds themselves in a restaurant kitchen and meets a crying chef, Patty, who is on a mission to find ingredients from around the world.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Patty the Pastry Chef",
+      "slug": "around-the-world-ep2-patty-the-pastry-chef"
+    }
+  },
+  {
+    "id": "6aa2e0feaf874e4f95ca59b5",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:26.112Z",
+    "createdOn": "2026-09-10T16:55:26.112Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi have a sleepover at Thandi's house, and her mom reads them a story that suddenly comes to life.",
+      "theme": "6aa2dcf450763ba122976a72",
+      "name": "Around the World in 80 days",
+      "slug": "around-the-world-ep1-around-the-world-in-80-days"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90243e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "The team, with their new Eel friends, returns the Pearl of the Ocean to Wilhelmina, who lets each of them make a wish.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Make a Wish!",
+      "slug": "under-the-sea-ep17-make-a-wish"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90243c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "The team takes the pearl back from the Electric Eels, but learns the Eels are not so nasty after all — they just don't have any friends.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Everyone needs a friend",
+      "slug": "under-the-sea-ep16-everyone-needs-a-friend"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90243a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "In the Eels' cave, the Eels come in with the pearl and fall asleep, giving the team a chance to nab it.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Finding the Pearl",
+      "slug": "under-the-sea-ep15-finding-the-pearl"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902438",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "The team sneaks into the Eels' cave, playing a trick on them so as not to be discovered.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Search for the Pearl",
+      "slug": "under-the-sea-ep14-search-for-the-pearl"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902436",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team finds themselves in the Deep End of the Ocean, being swept up in a current toward a dark cave.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Current Events",
+      "slug": "under-the-sea-ep10-current-events"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902434",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "Stevie teaches the team a rap, and Shelley tells them about the mean Electric Eels who may have the pearl.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Electric Eels",
+      "slug": "under-the-sea-ep9-the-electric-eels"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902432",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "Having passed the Sea School test, the team meets the coolest sea creature, Stevie the Starfish.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Stevie the Starfish",
+      "slug": "under-the-sea-ep8-stevie-the-starfish"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902430",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "At the Sea School, the Crabs and Jellyfish keep fighting on the playground, so Principal Turtle sets the class a test.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Test",
+      "slug": "under-the-sea-ep7-the-test"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90242e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "Queen Wilhelmina says the team will get a wish on the magic pearl, but first they need training at the Sea School.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Sea School",
+      "slug": "under-the-sea-ep6-the-sea-school"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90242c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "Wilhelmina tells the team her magical pearl necklace has been stolen, and promises a reward if they help find it.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Pearl of the Ocean",
+      "slug": "under-the-sea-ep5-the-pearl-of-the-ocean"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda90242a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "The team finds a cave with a throne where the crying came from Wilhelmina, the Whale Queen, who needs their help.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Wilhelmina the Whale Queen",
+      "slug": "under-the-sea-ep4-wilhelmina-the-whale-queen"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902428",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "Shelley guides the team through a cave on an adventurous journey under the sea, and they hear someone crying.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Cave",
+      "slug": "under-the-sea-ep3-the-cave"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902426",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "The team finds themselves Under the Sea and meets Shelley the Shark, who turns out to be friendly.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "Shelley the Shark",
+      "slug": "under-the-sea-ep2-shelley-the-shark"
+    }
+  },
+  {
+    "id": "6aa2e0ebd588f6beda902424",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:55:07.299Z",
+    "createdOn": "2026-09-10T16:55:07.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi visit the Aquarium after school and find themselves in a weird and wonderful new place.",
+      "theme": "6aa2dcf450763ba122976a70",
+      "name": "The Aquarium",
+      "slug": "under-the-sea-ep1-the-aquarium"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e46f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "The team has the Magical Coconut back from Captain Hook, but he is chasing them in pursuit!",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Magical Coconut Wish",
+      "slug": "mermaids-and-pirates-ep17-magical-coconut-wish"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e46d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "The team sneaks up on the sleeping Captain Hook to grab the Mermaid Queen's Magical Coconut.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "We've Got It!",
+      "slug": "mermaids-and-pirates-ep16-weve-got-it"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e46b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "The team sneaks onto Hook's Pirate ship, quietly searching for the Magical Coconut.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "On Hook's Ship",
+      "slug": "mermaids-and-pirates-ep15-on-hooks-ship"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e469",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "The team nervously waits to see if Scully makes it back safely from scouting a nearby ship that might be Captain Hook's.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Our plan begins...",
+      "slug": "mermaids-and-pirates-ep14-our-plan-begins"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e467",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 13,
+      "synopsis": "Pirate Pip says the team will follow the Mermaid Queen's Pirate Map, where X marks the spot to find Hook.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Pirate Ship!",
+      "slug": "mermaids-and-pirates-ep13-pirate-ship"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e465",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 12,
+      "synopsis": "Sailing the high seas, Ben remembers a clue for finding Captain Hook.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "X Marks the Spot!",
+      "slug": "mermaids-and-pirates-ep12-x-marks-the-spot"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e463",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 11,
+      "synopsis": "Pirate Pip helps the team find Captain Hook and they set sail on his ship.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Sail Away",
+      "slug": "mermaids-and-pirates-ep11-sail-away"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e461",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team needs a Pirate ship to retrieve the stolen Magical Coconut, and luckily finds one.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Pirate Pip's Ship",
+      "slug": "mermaids-and-pirates-ep10-pirate-pips-ship"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e45f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "The Mermaid Queen is upset that Captain Hook has stolen her Magical Coconut, and the team offers to help.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "The Offer",
+      "slug": "mermaids-and-pirates-ep9-the-offer"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e45d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "The team makes it to the Mermaid Queen's Cove, one of the most beautiful places, guided by Molly.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "The Mermaid Queen",
+      "slug": "mermaids-and-pirates-ep8-the-mermaid-queen"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e45b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "Molly offers to take the team to visit the Mermaid Queen so they can make a wish on the Magical Coconut.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "The Journey",
+      "slug": "mermaids-and-pirates-ep7-the-journey"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e459",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "Molly tells the team about the Mermaid Queen's Magical Coconut, which makes wishes come true.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "The Magical Coconut",
+      "slug": "mermaids-and-pirates-ep6-the-magical-coconut"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e457",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "The team meets Molly the Mermaid, fierce, fiery and fabulous, who tells them about something that can make wishes come true.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Molly the Mermaid",
+      "slug": "mermaids-and-pirates-ep5-molly-the-mermaid"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e455",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "Patrick tells the kidz all about his dream to become a pirate.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Patrick's Dream",
+      "slug": "mermaids-and-pirates-ep4-patricks-dream"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e453",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "The team meets Patrick, a little boy who wants to become a pirate one day, and he shows them around the island.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Patrick the Pirate",
+      "slug": "mermaids-and-pirates-ep3-patrick-the-pirate"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e451",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "The team finds themselves on a tropical island, and hears a funny sound like a pirate.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Treasure Island",
+      "slug": "mermaids-and-pirates-ep2-treasure-island"
+    }
+  },
+  {
+    "id": "6aa2e0db50763ba12298e44f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:51.952Z",
+    "createdOn": "2026-09-10T16:54:51.952Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi watch a program about Treasure Island, full of beaches, palm trees, coconuts, mermaids and more.",
+      "theme": "6aa2dcf450763ba122976a6e",
+      "name": "Our Story Begins",
+      "slug": "mermaids-and-pirates-ep1-our-story-begins"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c536a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 18,
+      "synopsis": "The team and their Superhero friends save Super City from Darth Moeder's terrible plot!",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Super City is Saved!",
+      "slug": "superheroes-ep18-super-city-is-saved"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5368",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "The team finds themselves in the Great Hall, full of Superhero statues, and plans to freeze and pretend to be statues.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "The Search is On!",
+      "slug": "superheroes-ep17-the-search-is-on"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5366",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "The team bravely makes it into Darth Towers, and something collapses beneath them.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Inside Darth Towers",
+      "slug": "superheroes-ep16-inside-darth-towers"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5364",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "The team, feeling a little scared of Darth Towers, squeezes into the building next door to make a plan.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Making a plan",
+      "slug": "superheroes-ep15-making-a-plan"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5362",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "The team makes their way to the scary Darth Towers on Baddie Boulevard.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Darth Towers",
+      "slug": "superheroes-ep14-darth-towers"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5360",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 13,
+      "synopsis": "Mrs Might tells the team that the villain Darth Moeder has been spotted, and everyone gets ready to defend Super City.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Darth Moeder",
+      "slug": "superheroes-ep13-darth-moeder"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c535e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 12,
+      "synopsis": "Bounce, Blast, Tickles and Bubbles teach the team a very special Spiderman Game, and the bell rings for the end of break.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Playing Games",
+      "slug": "superheroes-ep12-playing-games"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c535c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 11,
+      "synopsis": "The team meets the school bullies, Sniff, Sneeze and Shivers, during break time at the Cool School.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Slime!",
+      "slug": "superheroes-ep11-slime"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c535a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team enjoys break time at the Cool School with their new friends Bounce and Blast.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Sniff, Sneeze and Shivers",
+      "slug": "superheroes-ep10-sniff-sneeze-and-shivers"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5358",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "The team meets new Superhero friends at The Cool School but hears something suspicious.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Bubbles and Tickles",
+      "slug": "superheroes-ep9-bubbles-and-tickles"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5356",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "The team joins Bounce and Blast at The Cool School and meets the amazing Miss Might.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "The Cool School",
+      "slug": "superheroes-ep8-the-cool-school"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5354",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "Blast hides the keys to the Buzz Mobile, and the kidz have to look for them.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "The Key Problem",
+      "slug": "superheroes-ep7-the-key-problem"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5352",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "The team arrives at a Super Mall especially for Superheroes, called Marvel Mall, and helps the Superheroes there.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Marvel Mall",
+      "slug": "superheroes-ep6-marvel-mall"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5350",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "Having passed the test, the kidz get to go to The Cool School to learn how to become Superheroes, travelling in the amazing Buzz Mobile.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "The Buzz Mobile",
+      "slug": "superheroes-ep5-the-buzz-mobile"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c534e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "Bounce tells the children all about a mean, smelly villain and sets them a test.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "The Test",
+      "slug": "superheroes-ep4-the-test"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c534c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "The kidz hear a strange bouncing sound and meet a very bouncy hero called Bounce.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Bounce!",
+      "slug": "superheroes-ep3-bounce"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c534a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "The kidz find themselves in Super City, home to all the Superheroes, and meet Blast, Buzz's very own Superhero.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Blast!",
+      "slug": "superheroes-ep2-blast"
+    }
+  },
+  {
+    "id": "6aa2e0ca0b2a0d4a411c5348",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:34.588Z",
+    "createdOn": "2026-09-10T16:54:34.588Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi watch a Superhero film after school and are sucked into the television screen, into an exciting new place.",
+      "theme": "6aa2dcf450763ba122976a6c",
+      "name": "Super City",
+      "slug": "superheroes-ep1-super-city"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e475f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "The team is on the run from Galliumina with the keys to her Gas-O-Thron 3000, and teach her about Global Warming.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "An Important Lesson",
+      "slug": "outer-space-ep17-an-important-lesson"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e475d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "The team makes themselves invisible under the Magic Moon Cloak and creeps up on the sleeping Galliumina to take her keys.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Hatching a Plan",
+      "slug": "outer-space-ep16-hatching-a-plan"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e475b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "The team locates the Gas-O-Thron 3000 and confronts the mean, baddie Galliumina.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Meeting Galliumina",
+      "slug": "outer-space-ep15-meeting-galliumina"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4759",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "Stuck in Jupiter's gravitational pull, Thandi uses some fancy foot work to help the team escape.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "The Gas-O-Thron 3000",
+      "slug": "outer-space-ep14-the-gas-o-thron-3000"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4757",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 13,
+      "synopsis": "The team jets off to Jupiter with the magic moon cloak, but Jupiter's strong gravitational pull causes trouble.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Jupiter",
+      "slug": "outer-space-ep13-jupiter"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4755",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 12,
+      "synopsis": "Mrs Moon offers to help the team beat Galliumina by lending them her special Moon Cloak, which makes people invisible.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "The Magic Space Cloak",
+      "slug": "outer-space-ep12-the-magic-space-cloak"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4753",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 11,
+      "synopsis": "Scotty, Thandi, Ben and Ravi land on the moon and meet the loopy, weird and wonderful Mrs Moon, who wants to teach them her Moon Magic.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "We Meet Mrs Moon!",
+      "slug": "outer-space-ep11-we-meet-mrs-moon"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4751",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team blazes a trail toward the moon in the Rock-Out Rocket Ship.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "The Moon!",
+      "slug": "outer-space-ep10-the-moon"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e474f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "The team lifts off in the Rock-Out Rocket Ship, but everyone starts feeling a bit strange.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Shopping Time",
+      "slug": "outer-space-ep9-shopping-time"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e474d",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "Scotty and Thandi find Ben inside the amazing Rock-Out Rocket Ship, full of knobs, buttons, dials and an intergalactic radio.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Inside a Rocket Ship",
+      "slug": "outer-space-ep8-inside-a-rocket-ship"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e474b",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "Scotty shows off his amazing Rock-Out Rocket Ship, the coolest rocket ship in the whole world.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "The Rock-Out Rocket Ship!",
+      "slug": "outer-space-ep7-the-rock-out-rocket-ship"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4749",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "Scotty invites Thandi, Ben and Ravi to join his Space Army and teaches them about the planets and a special space rap.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Space Army",
+      "slug": "outer-space-ep6-space-army"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4747",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "Scotty tells the kidz about Galliumina, named after the element Gallium, and her Gas-O-Thron 3000.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Galliumina",
+      "slug": "outer-space-ep5-galliumina"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4745",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "On Mars, the team spots the villain Galliumina and her horrible Gas-O-Thron 3000.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "The Red Planet",
+      "slug": "outer-space-ep4-the-red-planet"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4743",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.226Z",
+    "createdOn": "2026-09-10T16:54:18.226Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "The team figures out they are on Mars, the Red Planet, and Scotty teaches them a super cool space language.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Mars",
+      "slug": "outer-space-ep3-mars"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e4741",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.225Z",
+    "createdOn": "2026-09-10T16:54:18.225Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "Thandi, Ben and Ravi find themselves floating in Outer Space and meet a Spaceman named Scotty with a very cool Rocket Ship.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Scotty the Spaceman",
+      "slug": "outer-space-ep2-scotty-the-spaceman"
+    }
+  },
+  {
+    "id": "6aa2e0bab77184213a5e473f",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:18.225Z",
+    "createdOn": "2026-09-10T16:54:18.225Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi go to Thandi's house for a play date and start watching a TV program about Outer Space. Suddenly the screen changes.",
+      "theme": "6aa2dcf450763ba122976a6a",
+      "name": "Out of this World!",
+      "slug": "outer-space-ep1-out-of-this-world"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d734",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 18,
+      "synopsis": "The team successfully steals the keys from the sleeping poacher and sets Rafiki the Rhino free, then celebrates at the watering hole.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Celebration!",
+      "slug": "african-safari-ep18-celebration"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d732",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 17,
+      "synopsis": "The team looks around the poachers' camp for the keys to Rafiki's cage, but a poacher wakes up.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "The Key to Set Rafiki Free",
+      "slug": "african-safari-ep17-the-key-to-set-rafiki-free"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d730",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 16,
+      "synopsis": "Ella points the team to the poachers' camp, where Rafiki the Rhino has been captured and locked in a cage.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "The Poachers Camp",
+      "slug": "african-safari-ep16-the-poachers-camp"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d72e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 15,
+      "synopsis": "The hippos point the team to Ella the Elephant, who is amazing and knows a lot about elephants.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Ella the Elephant",
+      "slug": "african-safari-ep15-ella-the-elephant"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d72c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 14,
+      "synopsis": "The team asks the hippos at the watering hole if they know where Ella the Elephant is, who may know where Rafiki is.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Hippo in Hiding",
+      "slug": "african-safari-ep14-hippo-in-hiding"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d72a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 13,
+      "synopsis": "The team realises hissing sounds are coming from nearby (non-dangerous) snakes, and asks them for help.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Slithery Snakes",
+      "slug": "african-safari-ep13-slithery-snakes"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d728",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 12,
+      "synopsis": "The loud snoring turns out to be a zebra named Zolani, who agrees to help the team find Rafiki the Rhino.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "ZZZ... Zebra",
+      "slug": "african-safari-ep12-zzz-zebra"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d726",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 11,
+      "synopsis": "Jabulani, Thandi, Ben and Ravi get stuck in the mud, and Jabulani uses his long neck to scoop them out. Then they hear loud snoring.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Stuck in the mud",
+      "slug": "african-safari-ep11-stuck-in-the-mud"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d724",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 10,
+      "synopsis": "The team discovers a tree full of silly, playful monkeys as they continue their search for Rafiki the Rhino.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Monkey Madness!",
+      "slug": "african-safari-ep10-monkey-madness"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d722",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 9,
+      "synopsis": "Kobus the Crocodile lets the team cross his swamp in exchange for a poem. They meet the fastest mammal on land.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Cheetah Speed",
+      "slug": "african-safari-ep9-cheetah-speed"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d720",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 8,
+      "synopsis": "Jabulani reveals the \"pebbles\" in the river are actually a crocodile named Kobus.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Crocodile",
+      "slug": "african-safari-ep8-crocodile"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d71e",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 7,
+      "synopsis": "Jabulani is impressed with the team's teamwork and wants to test how clever the children are.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Bush Clever",
+      "slug": "african-safari-ep7-bush-clever"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d71c",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 6,
+      "synopsis": "Ben's binoculars go missing. Thandi, Ravi and Jabulani work together to find them, high up in a Maroela tree.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Teamwork",
+      "slug": "african-safari-ep6-teamwork"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d71a",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 5,
+      "synopsis": "Jabulani tells Thandi, Ben and Ravi that his best friend Rafiki the Rhino has been captured by mean poachers, and asks for their help.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Rafiki the Rhino is in Trouble!",
+      "slug": "african-safari-ep5-rafiki-the-rhino-is-in-trouble"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d718",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 4,
+      "synopsis": "Jabulani the Giraffe tells the kidz the big five animals are Lion, Leopard, Buffalo, Rhino and Elephant, and says he needs their help.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "The Big Five",
+      "slug": "african-safari-ep4-the-big-five"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d716",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 3,
+      "synopsis": "Thandi, Ben and Ravi meet a fun loving, friendly giraffe called Jabulani, who tells the kidz about the 5 most special animals.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Jabulani the Giraffe",
+      "slug": "african-safari-ep3-jabulani-the-giraffe"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d714",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 2,
+      "synopsis": "Thandi, Ben and Ravi find themselves somewhere in the African Wild. Suddenly they hear a loud and scary sound. Is it a lion?",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "The African Wild",
+      "slug": "african-safari-ep2-the-african-wild"
+    }
+  },
+  {
+    "id": "6aa2e0a9826c936ad8e4d712",
+    "cmsLocaleId": "6a8ed0cafd9787a0a4326e11",
+    "lastPublished": "2026-09-10T18:57:24.151Z",
+    "lastUpdated": "2026-09-10T16:54:01.401Z",
+    "createdOn": "2026-09-10T16:54:01.401Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "episode-number": 1,
+      "synopsis": "Thandi, Ben and Ravi sit down after school one day and put on a program all about the African wild. Something strange happens and they are sucked into the screen.",
+      "theme": "6aa2dcf450763ba122976a68",
+      "name": "Safari in the City",
+      "slug": "african-safari-ep1-safari-in-the-city"
+    }
+  }
+]
