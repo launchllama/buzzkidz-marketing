@@ -109,3 +109,18 @@ Checked section by section on staging (`/home-new-design`), desktop 1440px and i
   homepage scrolls sideways on phones).
 Differences kept on purpose: the photo strip keeps the existing moving marquee and photos; testimonials
 stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not final).
+
+## 24 Nov, evening: map, carousel, slugs
+- Where we buzz: replaced the drawn SVG map with a Leaflet tile map (OpenStreetMap tiles; CARTO now
+  needs an API key) beside the heading, as in the design. Pins come from the Venues CMS (hidden list on
+  the page), nearby areas group at country zoom, popups link to /where-we-buzz?area=..., SA/USA toggle.
+- Testimonials: autoplay every 6s (pauses on hover/touch, off for reduced motion), wraps both ways,
+  ~2.7 cards visible so the next one peeks, equal-height cards, chevron arrows.
+- Slugs now live: /about-us, /buzz-in-schools, /buzzparties, /creative-content, /buzz-brand-stages,
+  /what-happens-in-a-buzz-workshop (service pages moved out of /services).
+- Links fixed: Our Team / Buzz Family (both headers, both footers) -> /about-us#buzz-family;
+  Creative Content buttons -> /what-happens-in-a-buzz-workshop#characters / #curriculum.
+- Crawl of 18 pages: only broken internal link left is /buzz-in-a-box (header Log in, per brief) - no such page in Webflow.
+- Still needed in Webflow settings (no API): Set "Home (new design)" as Home page; 301 redirects from
+  old paths (/about, /how-we-buzz, /services/to-schools, /services/parties, /services/creative-content,
+  /services/brand-stages, /buzz-family -> /about-us#buzz-family).
