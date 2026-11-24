@@ -124,3 +124,13 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Still needed in Webflow settings (no API): Set "Home (new design)" as Home page; 301 redirects from
   old paths (/about, /how-we-buzz, /services/to-schools, /services/parties, /services/creative-content,
   /services/brand-stages, /buzz-family -> /about-us#buzz-family).
+
+## 24 Nov, night: header and footer site-wide
+- All 29 live pages (static pages + every CMS template) now use the new header and footer. Components
+  renamed: "Site Header" / "Site Footer" are the new ones; the old ones are "(old, retired)" and only
+  remain on the draft backup page.
+- Header "Buzz us" hover pulse moved into the header component (was a homepage-only embed).
+- Phone fixes (tiny breakpoint): bkh-btn-primary / bkh-btn-secondary may wrap; bkh-character-card min-width 0.
+- Verified live: 21 URLs (incl. a blog post and a venue page) show exactly one new header + footer,
+  no old ones, no sideways scroll at 390px. Only broken internal link: /buzz-in-a-box (header Log in).
+- "/" still serves the old Home page content until "Home (new design)" is set as Home page in the Designer.
