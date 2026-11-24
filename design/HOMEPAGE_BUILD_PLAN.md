@@ -94,3 +94,18 @@ grey, no black). A page-only embed adds a pulse on button hover, a gentle bob on
 and lift-on-hover for stats, badges, deploy cards and testimonials (all off for reduced motion).
 Kept throughout: word ticker, photo marquee, interactive map, hero kids animation, header shrink on scroll.
 Decision: follow the 23 Nov design file where it differs from the client's earlier Webflow comments.
+
+## 24 Nov, final pass against the design (screenshots in design/review/)
+Checked section by section on staging (`/home-new-design`), desktop 1440px and iPhone 13.
+- Hero: white background, kids animation runs (it needs Webflow's interactions script; it was never broken).
+- Badges: 5 small cards (EAF, HundrED, Mastercard Foundation, Nation Builder, Edupulse), compact strip.
+- Offerings: children card ~2x wider (as in design), photos in both cards, Original Content image,
+  two stickers, both CTAs in one row, Buzz in a Box logo on the adults card. Stacks on tablet/phone.
+- Video band: unchanged YouTube embed (renders blank only in headless screenshots).
+- Schools: the design's 19 logos in its order. Partners: own section after the map, plus Val de Vie and
+  Northern Cape Education logos.
+- Deploy cards: photos flush to the card edges with yellow/grey bars.
+- Header on phones: menu, logo, Log in, Buzz us on one row (no sideways scroll; the current live
+  homepage scrolls sideways on phones).
+Differences kept on purpose: the photo strip keeps the existing moving marquee and photos; testimonials
+stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not final).
