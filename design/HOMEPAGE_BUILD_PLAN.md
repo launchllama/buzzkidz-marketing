@@ -134,3 +134,20 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Verified live: 21 URLs (incl. a blog post and a venue page) show exactly one new header + footer,
   no old ones, no sideways scroll at 390px. Only broken internal link: /buzz-in-a-box (header Log in).
 - "/" still serves the old Home page content until "Home (new design)" is set as Home page in the Designer.
+
+## 25 Nov: homepage live + full-site QA
+- "Home (new design)" is now the Home page (client set it). Old home drafted (/old-home 404). Home SEO title/description added.
+- Testimonials: whole cards only (3 desktop / 2 tablet / 1 phone), slides one card at a time; nothing cut off.
+- Menu "Philanthropy" -> https://thebuzzfoundation.org (new tab). Footer logo was linked to the old home page -> now Home.
+- Full-site visual review (2 reviewers, 20 pages x desktop/phone). Fixed:
+  - Squashed team/character cards on phones (Franchises, Workshop) - my earlier min-width change; cards now full width on phones.
+  - Parties: baked-in balloon images (wrong Ninja Turtles text, cut-off words, missing Princess Sofia) replaced by drawn balloons (page head code).
+  - Workshop: missing Dinosaurs cover shows a branded teal tile (page head code) until artwork is supplied.
+  - Buzz in Schools statistic was unstyled (divs inside a <p>): now large white headline.
+  - Site default font was Arial (Webflow default) -> brand font via site head code.
+  - 53 "Read more" buttons linked to "#" (About team 39, Franchises 11, Why Buzz 3): now link to item pages via data-cms-slug + site footer script.
+  - Blog: 21 posts updated - links to old slugs (/how-we-buzz, /about, /services/...) fixed, orphan <li> wrapped in <ul>, excerpts without captions, typos.
+  - Testimonial typos (Gail Fry, Lizette Uys). Podcast artwork fragment hidden. Button spacing/alignment, rich-text link colour.
+- Verified: crawl of 18 pages + item pages, only broken link /buzz-in-a-box (header Log in, waiting on client).
+- Open for client: Dinosaurs cover art, Princess Sofia (now covered), Terms & Insurance page is placeholder text,
+  "Ravi" vs "Zadie" in podcast episodes, footer grey (#838484) white-text contrast ~3.6:1, school count 200+ vs 317.
