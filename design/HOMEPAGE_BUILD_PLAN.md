@@ -151,3 +151,15 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Verified: crawl of 18 pages + item pages, only broken link /buzz-in-a-box (header Log in, waiting on client).
 - Open for client: Dinosaurs cover art, Princess Sofia (now covered), Terms & Insurance page is placeholder text,
   "Ravi" vs "Zadie" in podcast episodes, footer grey (#838484) white-text contrast ~3.6:1, school count 200+ vs 317.
+
+## 25 Nov: site structure to the website plan (design/website-plan.html)
+- New page Buzz Fam /buzz-family (team list moved from About; About's team section hidden).
+- Header menu rebuilt to the plan's 8 groups, headings not clickable: Why we buzz (Why we do what we do, Buzz Blog);
+  Drama, Dance & Singing (How we buzz, Who we buzz with); Our Original Content; Our services (To Children, To Schools);
+  Our Philanthropy (The Buzz Foundation -> /foundation until the domain forwards); Our Franchising (Franchisees,
+  Become a Franchisee); Our Parties; Our Team (Meet the Buzz Fam, Work for Buzz -> current job form).
+- Footer: About Buzz Kidz (Meet the Buzz Fam, Work for Buzz), Legal (2 PDFs), Buzz us (phones, email, Buzz us form), socials.
+  Explore column hidden. Merch Store link waiting on its address.
+- Renamed: About -> Why we buzz; How we buzz -> The Buzz Curriculum; Brand Stages -> Who we buzz with;
+  Franchises -> Our Franchises (hero button "Become a Franchisee"); Partner -> Become a Franchisee. SEO titles updated.
+- Redirects and foundation domain: see design/REDIRECTS.md.
