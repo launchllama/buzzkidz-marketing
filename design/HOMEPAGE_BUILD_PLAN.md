@@ -163,3 +163,11 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Renamed: About -> Why we buzz; How we buzz -> The Buzz Curriculum; Brand Stages -> Who we buzz with;
   Franchises -> Our Franchises (hero button "Become a Franchisee"); Partner -> Become a Franchisee. SEO titles updated.
 - Redirects and foundation domain: see design/REDIRECTS.md.
+
+## 2026-11-25: plan re-check and Why we buzz rebuild
+- Website plan updated (design/website-plan.html). Changes: Why we buzz has a 7-section layout; Buzz Fam opens with Hanneke's full bio.
+- Why we buzz (/about-us) rebuilt natively from design/why-we-buzz-design.html (classes `wwb-*`): banner, What motivates us, quote strip, two programme streams, research cards + six study links (new tab), compliance pie (HTML embed), Buzz Blog taster (CMS list, newest 3, Read More via data-cms-slug fallback). Old About sections hidden, not deleted. Banner photo: home2-strip-1 (design file had no hero photo).
+- Buzz Fam: founder section (`fam-founder`) with Hanneke's full bio above the team.
+- Buzz in Schools: added "Learn about Buzz" links (Curriculum, Why we buzz, Content, Who we buzz with, Parties).
+- Where we buzz: "Why we do what we do" now -> /about-us (was dead /why-buzz).
+- Homepage: hero kids bob + sticker wobble re-created in site CSS (old IX3 timeline targeted elements on the drafted old homepage); tighter section gaps.
