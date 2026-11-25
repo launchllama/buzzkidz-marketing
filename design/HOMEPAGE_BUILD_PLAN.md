@@ -171,3 +171,6 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Buzz in Schools: added "Learn about Buzz" links (Curriculum, Why we buzz, Content, Who we buzz with, Parties).
 - Where we buzz: "Why we do what we do" now -> /about-us (was dead /why-buzz).
 - Homepage: hero kids bob + sticker wobble re-created in site CSS (old IX3 timeline targeted elements on the drafted old homepage); tighter section gaps.
+- Homepage ticker: "Critical Thinking" added after Collaboration in every ticker set.
+- Menu: verb "buzz" italic in Why we buzz / How we buzz / Who we buzz with (site footer script wraps it in <em>; brand names untouched).
+- Full re-check 2026-11-25: all 13 plan pages 200 with new header/footer, no mobile overflow, one H1 each, no broken images; only broken link is header "Log in" -> /buzz-in-a-box (awaiting destination).
