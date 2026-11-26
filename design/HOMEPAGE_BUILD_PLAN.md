@@ -181,3 +181,4 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - /buzz-blog rebuilt to design/buzz-blog-design.html (classes `blg-*`): banner, search (filters all posts), CMS card grid (photo, coloured category dot, date "29 April 2022", title, excerpt, Read more; whole card links to /blog/<slug>), Load more blogs (6 at a time). Old hero/list sections hidden.
 - Footer: Buzz us column left-aligned, Buzz us as teal button (matches designs).
 - REDIRECTS.md: one rule per old top-level post address -> /blog/<slug>.
+- Review pass vs designs: added the design's gold burst (by the banner label) and gold swoosh to the Blog and Why we buzz banners (assets shape-burst-gold.png / shape-swoosh-gold.png); "The Buzz Blog" heading upright as in the design; design hover states added (blog cards lift, Load more fades, Why we buzz buttons/links).
