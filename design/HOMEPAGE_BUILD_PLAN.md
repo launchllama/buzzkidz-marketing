@@ -174,3 +174,10 @@ stay as the 3 CMS cards (design shows a scroll carousel); footer unchanged (not 
 - Homepage ticker: "Critical Thinking" added after Collaboration in every ticker set.
 - Menu: verb "buzz" italic in Why we buzz / How we buzz / Who we buzz with (site footer script wraps it in <em>; brand names untouched).
 - Full re-check 2026-11-25: all 13 plan pages 200 with new header/footer, no mobile overflow, one H1 each, no broken images; only broken link is header "Log in" -> /buzz-in-a-box (awaiting destination).
+
+## 2026-11-26: Buzz Blog page
+- Plan "v2" upload is identical to the previous plan (only the file name differs).
+- Blog Posts collection: new Option field `category` (Franchising / Our story / Parenting / Teaching); all 29 posts assigned.
+- /buzz-blog rebuilt to design/buzz-blog-design.html (classes `blg-*`): banner, search (filters all posts), CMS card grid (photo, coloured category dot, date "29 April 2022", title, excerpt, Read more; whole card links to /blog/<slug>), Load more blogs (6 at a time). Old hero/list sections hidden.
+- Footer: Buzz us column left-aligned, Buzz us as teal button (matches designs).
+- REDIRECTS.md: one rule per old top-level post address -> /blog/<slug>.
