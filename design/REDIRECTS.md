@@ -12,10 +12,10 @@
 | /services/creative-content | /creative-content |
 | /services/brand-stages | /buzz-brand-stages |
 | /buzz-in-real-life | /where-we-buzz |
-| /bubbas | /buzz-brand-stages |
-| /buzzeez | /buzz-brand-stages |
-| /buzz | /buzz-brand-stages |
-| /buzz-academy | /buzz-brand-stages |
+| /bubbas | /buzz-brand-stages#bubbas |
+| /buzzeez | /buzz-brand-stages#buzzeez |
+| /buzz | /buzz-brand-stages#buzz |
+| /buzz-academy | /buzz-brand-stages#buzz-academy |
 | /buzz-kidz-music | /creative-content |
 | /buzz-kidz-podcast | /creative-content |
 | /buzz-edutainment-tv-show | /creative-content |
